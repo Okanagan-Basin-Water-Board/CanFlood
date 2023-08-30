@@ -1,0 +1,51 @@
+[parameters]
+name = ppl.vuln.sA
+cid = bid
+prec = 3
+ground_water = False
+felv = ground
+event_probs = ari       #format of event probabilities (in 'aeps' data file): 'ari' or 'aep'
+ltail = extrapolate     #EAD extrapolation: left tail treatment code (low prob high damage)
+rtail = 0.2
+drop_tails = False      #EAD extrapolation: whether to remove the extrapolated values before writing the per-asset results
+integrate = trapz       #integration method to apply: trapz, simps
+as_inun = False
+event_rels = mutEx		#assumption for calculated expected value on complex events
+impact_units = impacts  #value to label impacts axis with (generally set by Dmg2)
+apply_miti = False		#whether to apply mitigation algorthihims
+
+[dmg_fps]
+curves = #damage curve library filepath
+finv = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\finv_ppl.vuln.sA_r6_17691_ppl.vuln_r3_230317.csv
+expos = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\expos_r6_4_17691_max.csv
+gels = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\gels_r6_1_17691_min.csv
+
+[risk_fps]
+dmgs = #damage data results filepath
+exlikes = #secondary exposure likelihood data filepath
+evals = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\evals_sA_1230.csv
+
+[validation]
+risk1 = False
+dmg2 = False
+risk2 = False
+risk3 = False
+
+[results_fps]
+attrimat02 = #lvl2 attribution matrix fp (post dmg model)
+attrimat03 = #lvl3 attribution matrix fp (post risk model)
+r_passet = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\risk1_ppl.vuln.sA_r6_r_passet.csv
+r_ttl = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\risk1_ppl.vuln.sA_r6_ttl.csv
+eventypes = C:\LS\10_IO\2107_obwb\outs\cf\r6\20230324\ppl.vuln\sA\eventypes_r6_ppl.vuln.sA.csv
+#'r_passet' file path set from output_passet at 2023-03-24 16.46.51
+
+[plotting]
+color = black           #line color
+linestyle = dashdot
+linewidth = 2
+alpha = 0.75            #0=transparent 1=opaque
+marker = o
+markersize = 4
+fillstyle = none        #marker fill style
+impactfmt_str = ,.0f
+

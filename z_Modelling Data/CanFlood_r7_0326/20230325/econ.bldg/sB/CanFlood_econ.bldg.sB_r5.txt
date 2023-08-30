@@ -1,0 +1,51 @@
+[parameters]
+name = econ.bldg.sB
+cid = bid
+prec = 3
+ground_water = False
+felv = ground
+event_probs = ari       #format of event probabilities (in 'aeps' data file): 'ari' or 'aep'
+ltail = extrapolate     #EAD extrapolation: left tail treatment code (low prob high damage)
+rtail = 0.2
+drop_tails = False      #EAD extrapolation: whether to remove the extrapolated values before writing the per-asset results
+integrate = trapz       #integration method to apply: trapz, simps
+as_inun = False
+event_rels = mutEx		#assumption for calculated expected value on complex events
+impact_units = $CAD
+apply_miti = False		#whether to apply mitigation algorthihims
+
+[dmg_fps]
+curves = C:\LS\10_IO\2107_obwb\ins\cf\r5\finv\econ.bldg\curves\2107obwb_9vtag_r4_1019_vfLib.xls
+finv = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\finv_econ.bldg.sB_r5_19607_10r5_1028_finv.csv
+expos = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\expos_r5_4_19607_max.csv
+gels = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\gels_r5_1_19607_min.csv
+
+[risk_fps]
+dmgs = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\dmgs_econ.bldg.sB_r5.csv
+exlikes = #secondary exposure likelihood data filepath
+evals = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\evals_sB_1230.csv
+
+[validation]
+risk1 = False
+dmg2 = False
+risk2 = True
+risk3 = False
+
+[results_fps]
+attrimat02 = #lvl2 attribution matrix fp (post dmg model)
+attrimat03 = #lvl3 attribution matrix fp (post risk model)
+r_passet = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\risk2_econ.bldg.sB_r5_r_passet.csv
+r_ttl = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\risk2_econ.bldg.sB_r5_ttl.csv
+eventypes = C:\LS\10_IO\2107_obwb\outs\cf\r5\20221028\econ.bldg\sB\eventypes_r5_econ.bldg.sB.csv
+#'r_passet' file path set from output_passet at 2022-10-28 13.42.24
+
+[plotting]
+color = black           #line color
+linestyle = dashdot
+linewidth = 2
+alpha = 0.75            #0=transparent 1=opaque
+marker = o
+markersize = 4
+fillstyle = none        #marker fill style
+impactfmt_str = ,.0f
+

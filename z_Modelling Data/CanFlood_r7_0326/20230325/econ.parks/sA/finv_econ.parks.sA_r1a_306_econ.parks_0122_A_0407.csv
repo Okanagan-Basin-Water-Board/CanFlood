@@ -1,0 +1,307 @@
+xid,f0_elv,f0_scale,leisure,source,name,IBI_Repair_m2,Type,USEDECS,IBI_Type,leisure_2,sport
+1,0.0,18725.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+2,0.0,33517.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+3,0.0,4165.0,,OSM,,8,,,Sport Facility,pitch,baseball
+4,0.0,8826498.0,,ALUI,,12,,"Parks, zoos, fields, gardens",Path or Naturalized,,
+5,0.0,23205.0,,OSM,,8,,,Sport Facility,pitch,soccer
+6,0.0,11724.0,,OSM,,8,,,Sport Facility,pitch,soccer
+7,0.0,20331.0,,OSM,,8,,,Sport Facility,pitch,tennis
+8,0.0,11348.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+9,0.0,123535.0,,LocRegParks,,13,Park,,Typical Park,,
+10,0.0,26699.0,,LocRegParks,,13,Park,,Typical Park,,
+11,0.0,106312.0,,LocRegParks,,13,Park,,Typical Park,,
+12,0.0,200535.0,,LocRegParks,,13,Park,,Typical Park,,
+13,0.0,263071.0,,LocRegParks,,13,Park,,Typical Park,,
+14,0.0,174610.0,,LocRegParks,,13,Park,,Typical Park,,
+15,0.0,60637.0,,LocRegParks,,13,Park,,Typical Park,,
+16,0.0,71949.0,,LocRegParks,,13,Park,,Typical Park,,
+17,0.0,457852.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+18,0.0,22312.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+19,0.0,984692.0,,ALUI,,30,,"Parks, zoos, fields, gardens",Formal Park,,
+20,0.0,102993.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+21,0.0,132742.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+22,0.0,9907.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+23,0.0,3386043.0,,ALUI,,30,,"Parks, zoos, fields, gardens",Formal Park,,
+24,0.0,29205.0,,ALUI,,13,,"Parks, zoos, fields, gardens",Typical Park,,
+25,0.0,8765.0,park,OSM,,13,,,Typical Park,,
+26,0.0,1174566.0,park,OSM,Skaha Lake Middle School Field,30,,,Formal Park,,
+27,0.0,20750.0,park,OSM,Manhattan Point,13,,,Typical Park,,
+28,0.0,383150.0,park,OSM,Princess Margaret Secondary School Field,13,,,Typical Park,,
+29,0.0,48336.0,park,OSM,Jack Brow Park,13,,,Typical Park,,
+30,0.0,12470.0,park,OSM,Manhattan Drive Beach Access,13,,,Typical Park,,
+31,0.0,36758.0,park,OSM,,13,,,Typical Park,,
+32,0.0,15487.0,park,OSM,Jennens Park,13,,,Typical Park,,
+33,0.0,41070.0,park,OSM,Aberdeen Park,13,,,Typical Park,,
+34,0.0,10825.0,park,OSM,Falcon Park,13,,,Typical Park,,
+35,0.0,12530.0,park,OSM,Sternwheeler Park,13,,,Typical Park,,
+36,0.0,118226.0,park,OSM,Marjorie Pritchard Memorial Park,13,,,Typical Park,,
+37,0.0,392574.0,park,OSM,,30,,,Formal Park,,
+38,0.0,4753.0,park,OSM,,30,,,Formal Park,,
+39,0.0,29452.0,park,OSM,Ellis Park,13,,,Typical Park,,
+40,0.0,9466.0,park,OSM,,13,,,Typical Park,,
+41,0.0,231721.0,park,OSM,,13,,,Typical Park,,
+42,0.0,386235.0,park,OSM,,13,,,Typical Park,,
+43,0.0,194071.0,park,OSM,,30,,,Formal Park,,
+44,0.0,267753.0,park,OSM,,30,,,Formal Park,,
+45,0.0,1084521.0,park,OSM,Riverside Park,30,,,Formal Park,,
+46,0.0,74229.0,park,OSM,SS Sicamous Heritage Shipyard Area,13,,,Typical Park,,
+47,0.0,22005.0,park,OSM,Pioneer Park,13,,,Typical Park,,
+48,0.0,602226.0,park,OSM,Kaloya Regional Park,13,,,Typical Park,,
+49,0.0,201314.0,park,OSM,Rotary Park,13,,,Typical Park,,
+50,0.0,10010.0,park,OSM,,13,,,Typical Park,,
+51,0.0,89547.0,park,OSM,Gyro Park,13,,,Typical Park,,
+52,0.0,2174798.0,park,OSM,Bertram Creek Regional Park,13,,,Typical Park,,
+53,0.0,43369.0,park,OSM,Gyro Park,13,,,Typical Park,,
+54,0.0,18477.0,park,OSM,Veterans Park,13,,,Typical Park,,
+55,0.0,96773.0,park,OSM,Recreation Avenue Park,8,,,Sport Facility,pitch,baseball
+56,0.0,50629.0,park,OSM,,8,,,Sport Facility,pitch,baseball
+57,0.0,8749.0,park,OSM,City Park,8,,,Sport Facility,pitch,beachvolleyball
+58,0.0,4604.0,park,OSM,City Park,8,,,Sport Facility,pitch,skateboard
+59,0.0,10804.0,park,OSM,City Park,8,,,Sport Facility,pitch,bowls
+60,0.0,48791.0,park,OSM,Recreation Avenue Park,8,,,Sport Facility,pitch,baseball
+61,0.0,2334.0,park,OSM,Strathcona Beach Park,8,,,Sport Facility,playground,
+62,0.0,21736.0,park,OSM,Recreation Avenue Park,8,,,Sport Facility,pitch,baseball
+63,0.0,17475.0,park,OSM,Recreation Avenue Park,8,,,Sport Facility,pitch,baseball
+64,0.0,3693.0,park,OSM,Skaha Lake Middle School Field,8,,,Sport Facility,pitch,basketball
+65,0.0,6893.0,park,OSM,Skaha Lake Middle School Field,8,,,Sport Facility,pitch,tennis
+66,0.0,33638.0,park,OSM,,8,,,Sport Facility,pitch,baseball
+67,0.0,2192.0,park,OSM,,8,,,Sport Facility,playground,
+68,0.0,3014.0,park,OSM,Riverside Park,8,,,Sport Facility,pitch,basketball
+69,0.0,27207.0,park,OSM,Riverside Park,8,,,Sport Facility,pitch,skateboard
+70,0.0,100489.0,park,OSM,,8,,,Sport Facility,pitch,baseball
+71,0.0,9716.0,park,OSM,,8,,,Sport Facility,pitch,tennis
+72,0.0,11310.0,park,OSM,,8,,,Sport Facility,pitch,skateboard
+73,0.0,4343.0,park,OSM,,8,,,Sport Facility,pitch,skateboard
+74,0.0,5084.0,park,OSM,Kalamalka Country Club,8,,,Sport Facility,pitch,tennis
+75,0.0,5069.0,park,OSM,Kalamalka Country Club,8,,,Sport Facility,pitch,tennis
+76,0.0,3010.0,park,OSM,,8,,,Sport Facility,playground,
+77,0.0,5159.0,park,OSM,Kalamalka Country Club,8,,,Sport Facility,pitch,tennis
+78,0.0,9856.0,park,OSM,,8,,,Sport Facility,pitch,tennis
+79,0.0,1456.0,park,OSM,,8,,,Sport Facility,pitch,basketball
+80,0.0,1439.0,park,OSM,Sutherland Bay Park,8,,,Sport Facility,playground,
+81,0.0,9927.0,park,OSM,Knox Mountain Park,8,,,Sport Facility,pitch,tennis
+82,0.0,11081.0,park,OSM,Lakawanna Park,8,,,Sport Facility,pitch,tennis
+83,0.0,2581.0,park,OSM,Lakawanna Park,8,,,Sport Facility,playground,
+84,0.0,2122.0,park,OSM,Kinsmen Park,8,,,Sport Facility,pitch,tennis
+85,0.0,1990.0,park,OSM,City Park,8,,,Sport Facility,pitch,tennis
+86,0.0,2122.0,park,OSM,Kinsmen Park,8,,,Sport Facility,pitch,tennis
+87,0.0,1955.0,park,OSM,City Park,8,,,Sport Facility,pitch,tennis
+88,0.0,3507.0,park,OSM,City Park,8,,,Sport Facility,pitch,basketball
+89,0.0,52560.0,park,OSM,City Park,8,,,Sport Facility,pitch,soccer
+90,0.0,14236.0,park,OSM,City Park,8,,,Sport Facility,playground,
+91,0.0,6363.0,park,OSM,Kin Beach,8,,,Sport Facility,playground,
+92,0.0,9272.0,park,OSM,,8,,,Sport Facility,pitch,tennis
+93,0.0,3158.0,park,OSM,Kin Beach,8,,,Sport Facility,pitch,beachvolleyball
+94,0.0,58704.0,park,OSM,,8,,,Sport Facility,playground,
+95,0.0,3029.0,park,OSM,,8,,,Sport Facility,playground,
+96,0.0,22938.0,park,OSM,,8,,,Sport Facility,pitch,skateboard
+97,0.0,52340.0,park,OSM,Kings Park,8,,,Sport Facility,pitch,soccer
+98,0.0,56506.0,park,OSM,Kings Park,8,,,Sport Facility,pitch,soccer
+99,0.0,60267.0,park,OSM,Kings Park,8,,,Sport Facility,pitch,soccer
+100,0.0,56567.0,park,OSM,Kings Park,8,,,Sport Facility,pitch,soccer
+101,0.0,3257.0,park,OSM,Sarsons Beach Park,8,,,Sport Facility,playground,
+102,0.0,38085.0,park,OSM,Powell Beach Park,8,,,Sport Facility,pitch,baseball
+103,0.0,3805.0,park,OSM,Kenyon Park,8,,,Sport Facility,playground,
+104,0.0,839.0,park,OSM,,8,,,Sport Facility,playground,
+105,0.0,1809.0,park,OSM,Pioneer Park,8,,,Sport Facility,playground,
+106,0.0,1924.0,park,OSM,Kenyon Park,8,,,Sport Facility,playground,
+107,0.0,3147.0,park,OSM,Peach Orchard Beach Park,8,,,Sport Facility,pitch,volleyball
+108,0.0,8911.0,park,OSM,Pioneer Park,8,,,Sport Facility,pitch,tennis
+109,0.0,13869.0,park,OSM,,8,,,Sport Facility,pitch,tennis
+110,0.0,10741.0,park,OSM,Skaha Lake Park,8,,,Sport Facility,pitch,
+111,0.0,78565.0,park,OSM,Skaha Lake Park,8,,,Sport Facility,pitch,baseball
+112,0.0,35956.0,park,OSM,Skaha Lake Park,8,,,Sport Facility,pitch,beachvolleyball
+113,0.0,13366.0,park,OSM,Skaha Lake Park,8,,,Sport Facility,playground,
+114,0.0,2117.0,park,OSM,Powell Beach Park,8,,,Sport Facility,pitch,tennis
+115,0.0,2112.0,park,OSM,Powell Beach Park,8,,,Sport Facility,pitch,tennis
+116,0.0,67120.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+117,0.0,98300.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,multi
+118,0.0,66312.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+119,0.0,52718.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+120,0.0,65216.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+121,0.0,52446.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+122,0.0,18914.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+123,0.0,2360.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,playground,
+124,0.0,52347.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+125,0.0,3903.0,park,OSM,Peach Orchard Beach Park,8,,,Sport Facility,playground,
+126,0.0,64815.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+127,0.0,67698.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+128,0.0,43228.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+129,0.0,55320.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+130,0.0,50690.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,baseball
+131,0.0,64169.0,park,OSM,Mission Recreation Park,8,,,Sport Facility,pitch,soccer
+132,0.0,1492207.0,park,OSM,,30,,,Formal Park,,
+133,0.0,26901.0,park,OSM,Lakeshore Road Recreation Corridor,12,,,Path or Naturalized,,
+134,0.0,385378.0,park,OSM,Manitou Park,13,,,Typical Park,,
+135,0.0,94801.0,park,OSM,Lakeshore Road Recreation Corridor,12,,,Path or Naturalized,,
+136,0.0,172881.0,park,OSM,Vancouver Avenue Park,13,,,Typical Park,,
+137,0.0,68926.0,park,OSM,Rose Gardens Park,13,,,Typical Park,,
+138,0.0,31978.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+139,0.0,38357.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+140,0.0,63029.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+141,0.0,82626.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+142,0.0,7580051.0,park,OSM,Mission Recreation Park,30,,,Formal Park,,
+143,0.0,2651406.0,park,OSM,Mission Recreation Park,30,,,Formal Park,,
+144,0.0,10137.0,park,OSM,Abbott Park,13,,,Typical Park,,
+145,0.0,42268.0,park,OSM,Abbott Park,13,,,Typical Park,,
+146,0.0,737302.0,park,OSM,Kings Park,30,,,Formal Park,,
+147,0.0,48356.0,park,OSM,Rotary Trails,13,,,Typical Park,,
+148,0.0,73295.0,park,OSM,CNR Wharf,13,,,Typical Park,,
+149,0.0,167660.0,park,OSM,Queens Park,13,,,Typical Park,,
+150,0.0,3339.0,park,OSM,,13,,,Typical Park,,
+151,0.0,87379.0,park,OSM,Ellis Creek Park,13,,,Typical Park,,
+152,0.0,54623.0,park,OSM,Veterans Memorial Park,13,,,Typical Park,,
+153,0.0,111469.0,park,OSM,McIntyre Canyon Park,13,,,Typical Park,,
+154,0.0,80770.0,park,OSM,Legion Beach Park,13,,,Typical Park,,
+155,0.0,55648.0,park,OSM,Naramata Wharf Park,13,,,Typical Park,,
+156,0.0,788157.0,park,OSM,Peach Orchard Beach Park,30,,,Formal Park,,
+157,0.0,54019.0,park,OSM,,13,,,Typical Park,,
+158,0.0,79340.0,park,OSM,Harold's Walkway,12,,,Path or Naturalized,,
+159,0.0,138071.0,park,OSM,Osprey Park,13,,,Typical Park,,
+160,0.0,40004.0,park,OSM,,13,,,Typical Park,,
+161,0.0,140214.0,park,OSM,Osoyoos Lake Regional Park,13,,,Typical Park,,
+162,0.0,68359.0,park,OSM,,13,,,Typical Park,,
+163,0.0,86008.0,park,OSM,Kiwanis Park,13,,,Typical Park,,
+164,0.0,514798.0,park,OSM,Keogan Park,13,,,Typical Park,,
+165,0.0,488052.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+166,0.0,386809.0,park,OSM,Mission Creek Greenway,12,,,Path or Naturalized,,
+167,0.0,910.0,park,OSM,Waterfront Walkway - El Dorado Hotel/Manteo Resort,12,,,Path or Naturalized,,
+168,0.0,10965.0,park,OSM,,13,,,Typical Park,,
+169,0.0,12395.0,park,OSM,Waterfront Walkway - El Dorado Hotel/Manteo Resort,12,,,Path or Naturalized,,
+170,0.0,5039.0,park,OSM,Waterfront Walkway - El Dorado Hotel/Manteo Resort,12,,,Path or Naturalized,,
+171,0.0,2365.0,park,OSM,Waterfront Walkway - El Dorado Hotel/Manteo Resort,12,,,Path or Naturalized,,
+172,0.0,303058.0,park,OSM,Sarsons Beach Park,30,,,Formal Park,,
+173,0.0,26548.0,park,OSM,Farris Road Beach Access,13,,,Typical Park,,
+174,0.0,32379.0,park,OSM,Cascia Linear Park,12,,,Path or Naturalized,,
+175,0.0,5468.0,park,OSM,Eldorado Road Beach Access,13,,,Typical Park,,
+176,0.0,16529.0,park,OSM,Braeloch Road Beach Access,13,,,Typical Park,,
+177,0.0,4288.0,park,OSM,Collett Road Beach Access,13,,,Typical Park,,
+178,0.0,5279.0,park,OSM,Hobson Road Beach Access,13,,,Typical Park,,
+179,0.0,873781.0,park,OSM,Cedar Creek Park,13,,,Typical Park,,
+180,0.0,11434.0,park,OSM,Bluebird Road North Beach Access,13,,,Typical Park,,
+181,0.0,344481.0,park,OSM,Powell Beach Park,30,,,Formal Park,,
+182,0.0,117266.0,park,OSM,Casorso Road Recreation Corridor,12,,,Path or Naturalized,,
+183,0.0,2994244.0,park,OSM,Esplanade,12,,,Path or Naturalized,,
+184,0.0,40232.0,park,OSM,Kinsmen Park,13,,,Typical Park,,
+185,0.0,35718.0,park,OSM,Kaleden Hotel Park,13,,,Typical Park,,
+186,0.0,12005.0,park,OSM,Triangle Park,13,,,Typical Park,,
+187,0.0,423327.0,park,OSM,Pioneer Park,30,,,Formal Park,,
+188,0.0,14022193.0,park,OSM,Evely Recreation Site,13,,,Typical Park,,
+189,0.0,7223.0,park,OSM,Christie Memorial Park,13,,,Typical Park,,
+190,0.0,197267.0,park,OSM,Christie Memorial Park,13,,,Typical Park,,
+191,0.0,44153.0,park,OSM,Central Okanagan Sailing Association,13,,,Typical Park,,
+192,0.0,451491.0,park,OSM,Gyro Park,13,,,Typical Park,,
+193,0.0,314983.0,park,OSM,,30,,,Formal Park,,
+194,0.0,171475.0,park,OSM,Lions Park,13,,,Typical Park,,
+195,0.0,403301.0,park,OSM,Kenyon Park,30,,,Formal Park,,
+196,0.0,63600.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,soccer
+197,0.0,51864.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,soccer
+198,0.0,1197.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,playground,
+199,0.0,40384.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,soccer
+200,0.0,198468.0,park,OSM,Antlers Beach Regional Park,13,,,Typical Park,,
+201,0.0,96026.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,baseball
+202,0.0,60106.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,baseball
+203,0.0,63598.0,,ALUI,,8,,"Parks, zoos, fields, gardens",Sport Facility,pitch,soccer
+204,0.0,14392.0,park,OSM,Lakeshore Road Beach Access,13,,,Typical Park,,
+205,0.0,9109.0,park,OSM,Francis Avenue Beach Access,13,,,Typical Park,,
+206,0.0,118749.0,park,OSM,Belmont Park,12,,,Path or Naturalized,,
+207,0.0,24066.0,park,OSM,Bluebird Road South Beach Access,13,,,Typical Park,,
+208,0.0,187911.0,park,OSM,Cook Road Boat Launch,13,,,Typical Park,,
+209,0.0,185157.0,park,OSM,Rotary Beach Park,13,,,Typical Park,,
+210,0.0,708941.0,park,OSM,Beasley Park,13,,,Typical Park,,
+211,0.0,218105.0,park,OSM,Reiswig Park,13,,,Typical Park,,
+212,0.0,80867.0,park,OSM,Tennis Courts,13,,,Typical Park,,
+213,0.0,2357727.0,park,OSM,Skaha Lake Park,30,,,Formal Park,,
+214,0.0,1183923.0,park,OSM,,30,,,Formal Park,,
+215,0.0,1112821.0,park,OSM,Thomson Marsh Park,12,,,Path or Naturalized,,
+216,0.0,13421.0,park,OSM,Casa Loma Waterfront Access,13,,,Typical Park,,
+217,0.0,9182.0,park,OSM,Casa Loma Dock,13,,,Typical Park,,
+218,0.0,26780.0,park,OSM,Casa Rio Waterfront Park,13,,,Typical Park,,
+219,0.0,110745.0,park,OSM,,13,,,Typical Park,,
+220,0.0,45783.0,park,OSM,Dupuis Park,13,,,Typical Park,,
+221,0.0,48261.0,park,OSM,Casa Loma Beach,13,,,Typical Park,,
+222,0.0,16393.0,park,OSM,,13,,,Typical Park,,
+223,0.0,11239.0,park,OSM,Dupuis Boat Launch,13,,,Typical Park,,
+224,0.0,9729.0,park,OSM,Kent Park,13,,,Typical Park,,
+225,0.0,386544.0,park,OSM,Gellatly Heritage Regional Park,13,,,Typical Park,,
+226,0.0,2806364.0,park,OSM,,30,,,Formal Park,,
+227,0.0,39150.0,park,OSM,Willow Beach,13,,,Typical Park,,
+228,0.0,1818713.0,park,OSM,,30,,,Formal Park,,
+229,0.0,637279.0,park,OSM,Lakers Park,13,,,Typical Park,,
+230,0.0,235587.0,park,OSM,Okanangan Lake Park,13,,,Typical Park,,
+231,0.0,4402.0,park,OSM,,13,,,Typical Park,,
+232,0.0,945407.0,park,OSM,Raymer Bay Regional Park,12,,,Path or Naturalized,,
+233,0.0,246813.0,park,OSM,Marina Way Park,13,,,Typical Park,,
+234,0.0,13814.0,park,OSM,,13,,,Typical Park,,
+235,0.0,60102.0,park,OSM,,13,,,Typical Park,,
+236,0.0,20917.0,park,OSM,Hitchner Park,13,,,Typical Park,,
+237,0.0,12719.0,park,OSM,Paddlewheeler Park,13,,,Typical Park,,
+238,0.0,5887.0,park,OSM,,13,,,Typical Park,,
+239,0.0,12113.0,park,OSM,Osprey Park,13,,,Typical Park,,
+240,0.0,5468.0,park,OSM,,13,,,Typical Park,,
+241,0.0,9692.0,park,OSM,,13,,,Typical Park,,
+242,0.0,192371.0,park,OSM,Maude Roxby Wetland,13,,,Typical Park,,
+243,0.0,370409.0,park,OSM,Boyce-Gyro Beach Park,13,,,Typical Park,,
+244,0.0,5471.0,park,OSM,Meikle Avenue Beach Access,13,,,Typical Park,,
+245,0.0,5562.0,park,OSM,West Avenue Beach Access,13,,,Typical Park,,
+246,0.0,6847.0,park,OSM,Burne Avenue Beach Access,13,,,Typical Park,,
+247,0.0,13285.0,park,OSM,Cedar Avenue Beach Access,13,,,Typical Park,,
+248,0.0,7936.0,park,OSM,Beach Avenue Beach Access,13,,,Typical Park,,
+249,0.0,3021.0,park,OSM,Vimy Avenue Beach Access,13,,,Typical Park,,
+250,0.0,47769.0,park,OSM,Dewdney Road #1 Beach Access,13,,,Typical Park,,
+251,0.0,206540.0,park,OSM,Fascieux Creek Wetland,13,,,Typical Park,,
+252,0.0,21445.0,park,OSM,Watt Road Beach Access,13,,,Typical Park,,
+253,0.0,49788.0,park,OSM,Watt Park,13,,,Typical Park,,
+254,0.0,41284.0,park,OSM,Marina Park,13,,,Typical Park,,
+255,0.0,17931.0,park,OSM,Powers Point Park,13,,,Typical Park,,
+256,0.0,15847.0,park,OSM,Beechnut Park,13,,,Typical Park,,
+257,0.0,16515.0,park,OSM,Gellatly Landing Park,13,,,Typical Park,,
+258,0.0,143545.0,park,OSM,Lochview Road Beach Access,13,,,Typical Park,,
+259,0.0,17855.0,park,OSM,Lake Avenue Beach Access,13,,,Typical Park,,
+260,0.0,16122.0,park,OSM,Heartnut Park,13,,,Typical Park,,
+261,0.0,37222.0,park,OSM,Pebble Beach,13,,,Typical Park,,
+262,0.0,17625.0,park,OSM,Hazelnut Park,13,,,Typical Park,,
+263,0.0,60418.0,park,OSM,,13,,,Typical Park,,
+264,0.0,111510.0,park,OSM,Sunset Drive Park,12,,,Path or Naturalized,,
+265,0.0,428390.0,park,OSM,,13,,,Typical Park,,
+266,0.0,599408.0,park,OSM,Kinsmen Park,30,,,Formal Park,,
+267,0.0,3067448.0,park,OSM,City Park,30,,,Formal Park,,
+268,0.0,32424.0,park,OSM,,13,,,Typical Park,,
+269,0.0,258550.0,park,OSM,Kalamalka Country Club,30,,,Formal Park,,
+270,0.0,576456.0,park,OSM,,30,,,Formal Park,,
+271,0.0,149861.0,park,OSM,Oyama Ball Park,13,,,Typical Park,,
+272,0.0,213132.0,park,OSM,,30,,,Formal Park,,
+273,0.0,592965.0,park,OSM,Kin Beach,30,,,Formal Park,,
+274,0.0,66323.0,park,OSM,Rotary Marsh Park,13,,,Typical Park,,
+275,0.0,667636.0,park,OSM,Waterfront Park,13,,,Typical Park,,
+276,0.0,30630.0,park,OSM,Water Street Boat Launch,13,,,Typical Park,,
+277,0.0,62872.0,park,OSM,Rotary Marsh Park,13,,,Typical Park,,
+278,0.0,125712.0,park,OSM,Abbott Street Recreation Corridor,12,,,Path or Naturalized,,
+279,0.0,5316.0,park,OSM,Royal Avenue Beach Access,13,,,Typical Park,,
+280,0.0,639092.0,park,OSM,Recreation Avenue Park,30,,,Formal Park,,
+281,0.0,241914.0,park,OSM,Strathcona Beach Park,30,,,Formal Park,,
+282,0.0,214524.0,park,OSM,Stuart Park,13,,,Typical Park,,
+283,0.0,74788.0,park,OSM,Kerry Park,13,,,Typical Park,,
+284,0.0,2251.0,park,OSM,Waterfront Park,13,,,Typical Park,,
+285,0.0,117502.0,park,OSM,Cawston Avenue Recreation Corridor,12,,,Path or Naturalized,,
+286,0.0,39764.0,park,OSM,Sutherland Bay Park,30,,,Formal Park,,
+287,0.0,62051.0,park,OSM,Sutherland Bay Park,30,,,Formal Park,,
+288,0.0,79663.0,park,OSM,Rotary Beach,13,,,Typical Park,,
+289,0.0,434877.0,park,OSM,Sutherland Bay Park,30,,,Formal Park,,
+290,0.0,65012.0,park,OSM,Lakawanna Park,30,,,Formal Park,,
+291,0.0,66494.0,park,OSM,Lakawanna Park,30,,,Formal Park,,
+292,0.0,34084.0,park,OSM,Gellatly Bay Recreational Corridor,13,,,Typical Park,,
+293,0.0,48727.0,park,OSM,Rotary Trails,13,,,Typical Park,,
+294,0.0,1267.0,park,OSM,Gellatly Nut Farm Regional Park,13,,,Typical Park,,
+295,0.0,5009.0,park,OSM,Gellatly Bay Recreational Corridor,13,,,Typical Park,,
+296,0.0,87533807.0,park,OSM,Knox Mountain Park,30,,,Formal Park,,
+297,0.0,525639.0,park,OSM,Gellatly Nut Farm Regional Park,13,,,Typical Park,,
+298,0.0,42096.0,park,OSM,Knox Mountain Park,30,,,Formal Park,,
+299,0.0,30615.0,park,OSM,,13,,,Typical Park,,
+300,0.0,5435.0,park,OSM,,13,,,Typical Park,,
+301,0.0,137865.0,park,OSM,Lakawanna Park,30,,,Formal Park,,
+302,0.0,108787.0,park,OSM,Lakawanna Park,30,,,Formal Park,,
+303,0.0,3387477.0,park,OSM,Kalamoir Regional Park,12,,,Path or Naturalized,,
+304,0.0,54171.0,park,OSM,Lakawanna Park,30,,,Formal Park,,
+305,0.0,5402517.0,park,OSM,Goats Peak Regional Park,12,,,Path or Naturalized,,
+306,0.0,901771.0,park,OSM,Goats Peak Regional Park,12,,,Path or Naturalized,,

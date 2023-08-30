@@ -1,0 +1,155 @@
+bid,poly_area,bgid,shed,source,use,f0_scale,f0_elv
+6525000,523.5,10002047.0,False,fjoin_BCA,Printing & Publishing Industry,1.0,0.1
+5072000,1648.22,10002303.0,False,fjoin_BCA,Metal Fabricating Industries,1.0,0.1
+23824000,52.23,10002345.0,False,fjoin_BCA,Industrial (Vacant),1.0,0.1
+23851000,103.29,10002346.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+23851001,54.76,10002346.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+23851002,167.08,10002346.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+23851003,99.99,10002346.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+23851004,90.17,10002346.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+24382000,2319.43,10002499.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+24293000,1772.7,10002501.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+24293001,1043.16,10002501.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5083000,1884.14,10002507.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5078001,1076.26,10002509.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5197000,160.64,10002509.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5180000,1366.86,10002514.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5179000,605.51,10002514.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5087000,280.18,10002528.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5102000,349.67,10002529.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+24220000,2209.02,10002531.0,False,fjoin_BCA,Government Buildings (Includes Courthous,1.0,0.1
+24312000,3048.14,10002532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+24312001,1676.72,10002532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5102001,78.31,10002533.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+5102002,174.32,10002533.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+5102003,265.7,10002533.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+24302000,684.68,10002534.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+24302001,366.25,10002534.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+5085000,278.74,10002538.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5086000,289.63,10002538.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5127000,656.95,10002545.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5186000,1299.06,10002546.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+24261001,484.48,10002555.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+24261000,572.97,10002555.0,False,fjoin_BCA,Concrete Mixing Plants,1.0,0.1
+5110000,1042.81,10002647.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+23134000,2965.66,10003440.0,False,fjoin_BCA,Printing & Publishing Industry,1.0,0.1
+25989002,120.52,10100402.0,False,fjoin_BCA,Lumber Remanufacturing (When Separate Fr,1.0,0.1
+4839000,1311.64,10004988.0,False,fjoin_BCA,Store(S) And Offices,1.0,0.1
+4840000,2189.98,10004988.0,False,fjoin_BCA,Store(S) And Offices,1.0,0.1
+4843000,546.07,10004988.0,False,fjoin_BCA,Store(S) And Offices,1.0,0.1
+5157007,1751.31,10005227.0,False,NPRI,"Veneer, plywood and engineered wood product manufacturing",1.0,0.1
+24349000,1907.88,10005289.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+5071000,4591.19,10005646.0,False,fjoin_BCA,Store(S) And Service Commercial,1.0,0.1
+5128000,661.6,10005946.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+18848002,1115.65,10008423.0,False,NPRI,"Water, sewage and other systems",1.0,0.1
+9862000,61.26,20200369.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+9862001,718.82,20200369.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+9862002,194.61,20200369.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+744000,813.85,21100011.0,False,fjoin_BCA,Metal Fabricating Industries,1.0,0.1
+10258000,1154.91,21100012.0,False,fjoin_BCA,Metal Fabricating Industries,1.0,0.1
+10065000,590.8,21100038.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+10241000,2308.16,21100057.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+721000,1596.53,21100060.0,False,fjoin_BCA,Machinery Manufacturing (Excluding Elect,1.0,0.1
+10227000,2160.11,21100068.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+218000,584.83,20900056.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+8618000,980.49,20900268.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+8618001,304.38,20900268.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+10277001,1117.55,21100905.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+10277002,1374.44,21100905.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+10277000,936.48,21100905.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12463005,4188.75,21300323.0,False,NPRI,"Veneer, plywood and engineered wood product manufacturing",1.0,0.1
+9700000,90.11,20203307.0,False,fjoin_BCA,Winery,1.0,0.1
+9700001,490.89,20203307.0,False,fjoin_BCA,Winery,1.0,0.1
+13956000,867.23,21901030.0,False,fjoin_BCA,Brewery,1.0,0.1
+1700000,358.45,21901459.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1701001,115.48,21901459.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1700001,1497.03,21901459.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1700002,1595.89,21901459.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1701000,104.49,21901460.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1701004,1547.81,21901460.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1701002,182.55,21901460.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1701003,1623.22,21901460.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12744001,3052.72,21901463.0,False,fjoin_BCA,Store(S) And Service Commercial,1.0,0.1
+12744002,6656.58,21901463.0,False,fjoin_BCA,Store(S) And Service Commercial,1.0,0.1
+12744000,114.1,21901463.0,False,fjoin_BCA,Store(S) And Service Commercial,1.0,0.1
+12665000,42.96,21901471.0,False,fjoin_BCA,Government Buildings (Includes Courthous,1.0,0.1
+13404000,854.64,21901485.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773000,327.74,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773001,294.2,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773002,67.91,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773003,82.23,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773004,2297.57,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+12773005,297.98,21901532.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+13033001,108.45,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033002,87.99,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033003,63.98,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033005,47.92,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033006,59.68,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033007,83.23,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033008,50.78,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033009,59.42,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033010,49.67,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033011,64.16,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033012,94.97,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033013,58.96,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033014,68.56,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033016,912.44,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033017,93.38,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033018,101.11,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033019,71.2,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033020,58.29,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033021,71.4,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033022,95.97,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033023,68.61,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033024,71.62,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033025,79.43,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033026,49.25,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033028,85.55,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033030,92.22,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033031,70.9,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033032,62.82,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033033,80.24,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033035,67.43,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033037,75.72,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033039,74.92,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033042,65.12,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033043,57.61,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033044,93.26,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033046,76.99,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033047,65.66,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033049,71.25,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033051,66.37,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033052,77.12,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033055,59.79,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033056,74.48,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033057,52.2,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033058,97.87,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033060,116.7,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033061,84.58,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033062,48.31,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033000,50.82,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033004,91.72,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033015,7848.67,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033027,102.15,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033029,63.38,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033034,168.92,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033036,196.06,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033038,64.53,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033040,100.53,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033041,87.03,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033045,163.03,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033048,63.0,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033050,897.83,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033053,80.26,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033054,79.5,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13033059,921.7,21901733.0,False,fjoin_BCA,Miscellaneous & (Industrial Other),1.0,0.1
+13180000,9874.87,21901846.0,False,fjoin_BCA,Storage & Warehousing (Closed),1.0,0.1
+1750003,218.5,21901852.0,False,NPRI,Cement and concrete product manufacturing,1.0,0.1
+2546000,141.71,21902573.0,False,fjoin_BCA,,1.0,0.1
+1587000,856.85,21903170.0,False,fjoin_BCA,Neighbourhood Pub,1.0,0.1
+14849000,199.8,21904033.0,False,fjoin_BCA,Brewery,1.0,0.1
+3364000,759.38,21904735.0,False,fjoin_BCA,Neighbourhood Pub,1.0,0.1
+2646001,283.63,21904786.0,False,fjoin_BCA,Neighbourhood Pub,1.0,0.1
+2505000,1199.24,21905011.0,False,fjoin_BCA,Winery,1.0,0.1
+2504000,333.62,21905011.0,False,fjoin_BCA,Winery,1.0,0.1
+1228034,1541.98,99900003.0,False,NPRI,"Other professional, scientific and technical services",1.0,0.1

@@ -1,0 +1,1359 @@
+xid,BC_LOTLNK,main_COVDESC,group_COVTYPDESC,detail1_COVTYPDESC,detail2_COVTYPDESC,f0_elv,Area_m2,f0_scale,crop_values_m2
+1,KEL14_96,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,28120.65176489591,44149.4,1.57
+3,KEL14_614,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,52815.77622578659,6337.9,0.12
+20,KEL14_4422,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,84693.2410963752,10163.2,0.12
+22,KEL14_686,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,58107.611207556496,6972.9,0.12
+26,KEL14_4420,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,37090.661211734376,4450.9,0.12
+29,KEL14_748,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,32597.577769454812,3911.7,0.12
+32,KEL14_4418,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,248644.32148235734,29837.3,0.12
+36,KEL14_197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,11090.788708091508,17523.4,1.58
+42,KEL14_672,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,119649.59848636674,14358.0,0.12
+44,KEL14_202,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,18425.207724196618,2211.0,0.12
+48,KEL14_761,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,48610.83976437777,5833.3,0.12
+49,KEL14_664,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,28475.24519390398,3417.0,0.12
+61,KEL14_749,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,29943.56425270257,3593.2,0.12
+64,KEL14_775,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16615.651037689917,1993.9,0.12
+66,KEL14_728,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8536.872379295815,1024.4,0.12
+68,KEL14_705,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,94347.54916685086,11321.7,0.12
+70,KEL14_750,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,37584.37098717243,4510.1,0.12
+71,KEL14_733,Anthropogenic - Vegetated - Cultivated,Vegetables,Sweet corn,,0.0,5381.1192822687535,4681.6,0.87
+89,KEL14_612,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,50250.116921626155,6030.0,0.12
+104,KEL14_754,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,21654.946052323947,2598.6,0.12
+105,KEL14_205,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,873.8716878449853,2062.3,2.36
+116,KEL14_4409,Anthropogenic - Vegetated - Cultivated,Cereals & oilseeds,Rye,,0.0,834996.0988726068,100199.5,0.12
+117,KEL14_4415,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Echinacea,,0.0,127068.76759871974,200768.7,1.58
+128,KEL14_301,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7192.314602719859,16973.9,2.36
+132,KEL14_341,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,22379.365796992297,52815.3,2.36
+142,KEL14_604,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1296.7914667240539,2048.9,1.58
+143,KEL14_605,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1602.2620074371018,2531.6,1.58
+192,KEL14_57,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,953.8913178259623,1497.6,1.57
+193,KEL14_58,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2986.9709939680265,4689.5,1.57
+194,KEL14_47,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,5306.96337062377,12524.4,2.36
+195,KEL14_76,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,6057.150514592923,9509.7,1.57
+196,KEL14_77,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1074.2526798493275,1686.6,1.57
+198,KEL14_96,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2544.330869608805,3994.6,1.57
+199,KEL14_101,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3155.605926676182,4954.3,1.57
+200,KEL14_191,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1741.088139406331,2733.5,1.57
+201,KEL14_192,Anthropogenic - Vegetated - Cultivated,Vines & berries,Berries,,0.0,2582.339517856325,4157.6,1.61
+202,KEL14_199,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4504.968574479728,7072.8,1.57
+204,KEL14_301,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3428.755324510752,8091.9,2.36
+205,KEL14_211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1509.2161819847613,2354.4,1.56
+207,KEL14_616,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,6868.140347481969,824.2,0.12
+208,KEL14_616,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,4224.888359500624,507.0,0.12
+209,KEL14_614,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,23310.26918862591,2797.2,0.12
+211,KEL14_750,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2326.030470996545,279.1,0.12
+212,KEL14_664,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16300.446347439758,1956.1,0.12
+226,KEL14_701,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9780.129585345185,1173.6,0.12
+227,KEL14_701,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5457.5795892089,654.9,0.12
+230,KEL14_725,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2748.0173099411604,5221.2,1.9
+231,KEL14_725,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,4936.003770342037,9378.4,1.9
+232,KEL14_758,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,8987.52767175,1078.5,0.12
+273,KEL14_3728,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,75.00568933192324,544.5,7.26
+277,KEL14_4418,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,26624.333235746024,3194.9,0.12
+279,KEL14_672,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,45795.26137137784,5495.4,0.12
+280,KEL14_672,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,14509.730635574862,1741.2,0.12
+281,KEL14_96,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3753.4670534114166,5892.9,1.57
+283,KEL14_347,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7675.334371211184,11973.5,1.56
+310,KEL14_4415,Anthropogenic - Vegetated - Cultivated,Floriculture,Lavender,,0.0,11315.774278349445,48318.4,4.27
+311,KEL14_4415,Anthropogenic - Vegetated - Cultivated,Cereals & oilseeds,Rye,,0.0,33385.57039077826,4006.3,0.12
+312,KEL14_4415,Anthropogenic - Vegetated - Cultivated,Vines & berries,Blueberries,,0.0,3022.4658706962705,4866.2,1.61
+313,KEL14_4415,Anthropogenic - Vegetated - Cultivated,Floriculture,Lavender,,0.0,10058.319782056726,42949.0,4.27
+318,SOK15_791,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,45168.294385810776,70914.2,1.57
+320,SOK15_782,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,36572.82396446457,57785.1,1.58
+321,SOK15_773,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,2801.8453633760614,4426.9,1.58
+322,SOK15_7122,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1245.2391948902289,1955.0,1.57
+323,SOK15_30107,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1235.5007162514537,148.3,0.12
+324,SOK15_7236,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1319.810240879939,2072.1,1.57
+328,SOK15_7274,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4149.045152952611,6514.0,1.57
+329,SOK15_7154,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,8861.743890612446,1063.4,0.12
+332,SOK15_7369,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,1488.8738717151514,178.7,0.12
+334,SOK15_7186,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,313.2543360006923,491.8,1.57
+335,SOK15_7250,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3427.2297933548475,5415.0,1.58
+336,SOK15_7160,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8019.7114744390055,962.4,0.12
+339,SOK15_7199,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4743.949599053777,7495.4,1.58
+342,SOK15_2317,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,7875.334730394479,14963.1,1.9
+343,SOK15_2319,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,18249.258539755636,74092.0,4.06
+345,SOK15_929,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1791.6982179733577,2795.0,1.56
+346,SOK15_1119,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,18289.05683369539,43162.2,2.36
+348,SOK15_4328,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,29415.62514330126,3529.9,0.12
+349,SOK15_3468,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,53439.13279257138,6412.7,0.12
+350,SOK15_3402,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,17233.224880756574,2068.0,0.12
+354,SOK15_4360,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,25486.600718604543,3058.4,0.12
+356,SOK15_3321,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,14231.039798436228,27039.0,1.9
+358,SOK15_3810,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,89251.9286366575,10710.2,0.12
+359,SOK15_3825,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,258166.3703733174,30980.0,0.12
+360,SOK15_1936,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,40223.625315976074,63151.1,1.57
+361,SOK15_921,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5491.481049188729,8676.5,1.58
+363,SOK15_2323,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,69273.02126118907,8312.8,0.12
+364,SOK15_2030,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,84525.26619711198,10143.0,0.12
+365,SOK15_1083,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,44183.68036193114,69368.4,1.57
+367,SOK15_3656,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12321.871478669571,1478.6,0.12
+369,SOK15_3532,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,36311.26052430288,57008.7,1.57
+370,SOK15_2470,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,31048.44381660382,73274.3,2.36
+371,SOK15_4846,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2796.7352592900697,4390.9,1.57
+372,SOK15_4450,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,189255.3420896502,22710.6,0.12
+374,SOK15_3519,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,6664.142767291751,10529.3,1.58
+375,SOK15_2008,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,Apples,0.0,14846.365993141777,23160.3,1.56
+376,SOK15_3243,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9087.36144482494,1090.5,0.12
+378,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,6526.642315696804,10312.1,1.58
+379,SOK15_1981,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,146711.27332061002,230336.7,1.57
+380,SOK15_2089,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2575.0700377462867,309.0,0.12
+383,SOK15_2303,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,16111.15123965894,1933.3,0.12
+384,SOK15_2143,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,8776.937491355917,16676.2,1.9
+388,SOK15_917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,46146.430265556104,71988.4,1.56
+390,SOK15_3295,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,31339.553595307527,73961.3,2.36
+391,SOK15_4345,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,59684.96774299255,7162.2,0.12
+393,SOK15_4786,Anthropogenic - Vegetated - Cultivated,Vegetables,Sweet corn,,0.0,1033.9644908850883,899.5,0.87
+394,SOK15_2940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5604.768701650329,8743.4,1.56
+395,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,19527.860849055127,30463.5,1.56
+396,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9603.54659030166,15173.6,1.58
+398,SOK15_933,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3410.835874368024,5389.1,1.58
+400,SOK15_8644,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,6699.3062171021165,803.9,0.12
+402,SOK15_2441,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,18073.747725454596,17893.0,0.99
+404,SOK15_685,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4840.053462164885,7550.5,1.56
+406,SOK15_8487,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5509.184017494083,8649.4,1.57
+407,SOK15_3549,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,5215.044805781453,17626.9,3.38
+408,SOK15_2792,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,13727.287306740951,1647.3,0.12
+409,SOK15_7753,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3071.8479917156956,4822.8,1.57
+410,SOK15_2093,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2929.663127786199,6914.0,2.36
+411,SOK15_2526,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,28529.2191984803,67329.0,2.36
+417,SOK15_2450,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,74552.42222722256,8946.3,0.12
+418,SOK15_1111,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8293.18222118186,13020.3,1.57
+419,SOK15_311,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32578.83445375656,51148.8,1.57
+420,SOK15_2331,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8936.640258899895,14119.9,1.58
+421,SOK15_4425,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,129599.98836397407,15552.0,0.12
+422,SOK15_1087,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,22105.568893223972,34705.7,1.57
+425,SOK15_3807,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,239778.70161713945,28773.4,0.12
+428,SOK15_2067,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,10044.162080656435,1205.3,0.12
+430,SOK15_3520,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,18952.869976831884,44728.8,2.36
+432,SOK15_2646,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,13729.292921833334,32401.1,2.36
+433,SOK15_7478,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,886.2033058937657,1391.3,1.57
+434,SOK15_8642,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,11700.428960356774,1404.1,0.12
+435,SOK15_3290,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,30722.920263300457,3686.8,0.12
+436,SOK15_1154,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,108840.67941958249,13060.9,0.12
+438,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,11722.21050037133,18521.1,1.58
+439,SOK15_969,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,13399.773786794442,21171.6,1.58
+440,SOK15_4843,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,98.18372048206882,154.1,1.57
+442,SOK15_2929,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3965.8231029815543,6226.3,1.57
+444,SOK15_3393,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Cedar hedging,,0.0,19724.500902040578,143199.9,7.26
+447,SOK15_1145,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,35077.36987514694,4209.3,0.12
+449,SOK15_3445,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,57617.59189510786,90459.6,1.57
+450,SOK15_3639,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3904.9525990326565,3865.9,0.99
+452,SOK15_2001,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,30581.35888713141,48318.5,1.58
+457,SOK15_3492,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,7984.355102006419,958.1,0.12
+466,SOK15_1091,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,35264.311067201066,55365.0,1.57
+467,SOK15_3481,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,7491.21632357838,898.9,0.12
+469,SOK15_2820,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8031.8576129479425,12690.3,1.58
+470,SOK15_2145,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,15054.619600372802,23786.3,1.58
+472,SOK15_2314,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,24869.055777081347,0.0,0.0
+475,SOK15_2033,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3924.336166002243,6200.5,1.58
+476,SOK15_4853,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,973.6480906835884,1528.6,1.57
+478,SOK15_231,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,37488.311133205636,58856.6,1.57
+480,SOK15_2779,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,20938.278489640088,49414.3,2.36
+482,SOK15_1969,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,26021.08988001569,40853.1,1.57
+483,SOK15_3326,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2764.812541704838,2737.2,0.99
+484,SOK15_2211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,24953.247372989917,39426.1,1.58
+485,SOK15_3429,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32574.709546836653,51142.3,1.57
+489,SOK15_3655,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,10168.926859556366,1220.3,0.12
+491,SOK15_3484,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Fruit / berry stock,,0.0,45927.47162365327,333433.4,7.26
+492,SOK15_1962,Anthropogenic - Vegetated - Cultivated,Vegetables,Sweet corn,,0.0,19512.56508971559,16975.9,0.87
+494,SOK15_1165,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,13702.072107428776,1644.2,0.12
+496,SOK15_3310,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,34216.16620437562,54061.5,1.58
+500,SOK15_696,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,39938.295855772994,62703.1,1.57
+502,SOK15_1174,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,56484.26932125348,88680.3,1.57
+508,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,13598.091561060486,21485.0,1.58
+509,SOK15_1094,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,3571.9941558151377,5643.8,1.58
+511,SOK15_1976,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,32396.215765872083,61552.8,1.9
+512,SOK15_2295,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,31642.95652803165,49995.9,1.58
+513,SOK15_4412,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9971.317072293314,1196.6,0.12
+516,SOK15_3450,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Walnut,,0.0,1060.254685737453,1675.2,1.58
+519,SOK15_2320,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,28413.222294510873,3409.6,0.12
+521,SOK15_2830,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,29774.424274828994,47043.6,1.58
+522,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,14056.482733630559,0.0,0.0
+525,SOK15_2816,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,10749.291791409078,1289.9,0.12
+527,SOK15_8641,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,10568.094290683448,1268.2,0.12
+528,SOK15_3420,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,11041.90661654568,1325.0,0.12
+530,SOK15_2285,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,895.9302706223963,1415.6,1.58
+533,SOK15_3377,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,37702.96868401683,4524.4,0.12
+534,SOK15_3477,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,58038.24211790331,6964.6,0.12
+537,SOK15_3417,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,13460.00361005212,22747.4,1.69
+540,SOK15_3430,Anthropogenic - Vegetated - Cultivated,Vegetables,Cole crops,,0.0,28878.19306249727,53713.4,1.86
+542,SOK15_3670,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5184.408674215803,622.1,0.12
+545,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,8722.181836878633,0.0,0.0
+546,SOK15_3325,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9639.886468800192,1156.8,0.12
+547,SOK15_2064,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,41392.377965436615,4967.1,0.12
+548,SOK15_2130,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1558.2866826993913,2462.1,1.58
+551,SOK15_682,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,34649.62844376251,54399.9,1.57
+552,SOK15_3661,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,55189.49784640904,6622.7,0.12
+553,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5985.534908178859,9337.4,1.56
+554,SOK15_2154,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,9465.47741135352,17984.4,1.9
+555,SOK15_1141,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,16308.532331254692,0.0,0.0
+556,SOK15_647,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,9395.665259682384,22173.8,2.36
+559,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12219.720412589466,19185.0,1.57
+562,SOK15_8645,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9660.282316211678,1159.2,0.12
+566,SOK15_1116,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,11200.952220885027,11088.9,0.99
+568,SOK15_1126,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,17626.434802673375,27849.8,1.58
+570,SOK15_3540,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1915.0066561510343,229.8,0.12
+571,SOK15_2802,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8822.184052351178,1058.7,0.12
+572,SOK15_2166,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7960.157797312777,12577.0,1.58
+575,SOK15_3871,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,24515.629686484353,38489.5,1.57
+577,SOK15_2078,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5870.975328863086,9217.4,1.57
+580,SOK15_3252,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,7399.899961880258,888.0,0.12
+581,SOK15_2318,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,16976.873771539136,2037.2,0.12
+583,SOK15_3441,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5225.937684669611,8152.5,1.56
+585,SOK15_3451,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,28309.21313514265,44445.5,1.57
+587,SOK15_3583,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3225.9212103727145,5064.7,1.57
+588,SOK15_2036,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,20927.771301785895,32856.6,1.57
+589,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,9676.116902278927,15094.7,1.56
+591,SOK15_5125,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,558.7091521198104,1318.6,2.36
+592,SOK15_2043,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,22706.95246833665,2724.8,0.12
+594,SOK15_3221,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,45763.86362008958,71849.3,1.57
+595,SOK15_2044,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,34000.16264324456,53380.3,1.57
+599,SOK15_3271,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,14452.446753042103,27459.6,1.9
+601,SOK15_2313,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,3456.7206867047116,6567.8,1.9
+606,SOK15_1191,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,46976.01846019696,73752.3,1.57
+608,SOK15_3460,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,18113.93295799632,28438.9,1.57
+609,SOK15_294,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7269.123225248712,17155.1,2.36
+611,SOK15_1966,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,22206.413738210187,34642.0,1.56
+613,SOK15_4488,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,11823.579192450403,1418.8,0.12
+615,SOK15_667,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3878.9766623956816,6051.2,1.56
+616,SOK15_317,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,37564.48068196892,58976.2,1.57
+618,SOK15_1169,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,80170.02168987568,9620.4,0.12
+619,SOK15_2457,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,13622.21343418484,21386.9,1.57
+620,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4726.925516730186,11155.5,2.36
+621,SOK15_3211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,768.6749645423616,1560.4,2.03
+623,SOK15_3392,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,18061.090376330078,28355.9,1.57
+624,SOK15_2194,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,74945.07686004546,117663.8,1.57
+626,SOK15_7489,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1559.6699227380946,2448.7,1.57
+629,SOK15_1036,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5667.701498950402,8898.3,1.57
+630,SOK15_3398,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,20687.69428372212,2482.5,0.12
+631,SOK15_1100,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,11466.144994307377,27060.1,2.36
+634,SOK15_1958,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,7844.35851662659,31848.1,4.06
+635,SOK15_3663,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1939.4261301506372,232.7,0.12
+636,SOK15_2088,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,42297.01261954945,66406.3,1.57
+638,SOK15_1136,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,45264.1219471137,71064.7,1.57
+640,SOK15_2808,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9909.119189707162,1189.1,0.12
+641,SOK15_3387,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,8279.513947330144,12916.0,1.56
+642,SOK15_7626,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1232.107750596916,1934.4,1.57
+645,SOK15_3657,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,11604.968038217605,1392.6,0.12
+647,SOK15_4413,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,10164.074850934483,1219.7,0.12
+651,SOK15_2068,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12390.601827210972,1486.9,0.12
+654,SOK15_2060,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,14471.211798722301,1736.5,0.12
+657,SOK15_4534,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,13934.984875119608,22017.3,1.58
+659,SOK15_4791,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8577.912384798996,13467.3,1.57
+660,SOK15_3641,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12488.521606917513,19607.0,1.57
+661,SOK15_2094,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32199.79652446935,50553.7,1.57
+665,SOK15_2300,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,43599.45587177154,68451.1,1.57
+666,SOK15_2174,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8983.197777589652,14103.6,1.57
+667,SOK15_3479,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,13851.410172173211,21746.7,1.57
+668,SOK15_2440,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,59847.72694802644,7181.7,0.12
+669,SOK15_2436,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,76556.62206679833,9186.8,0.12
+672,SOK15_2782,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4596.147588283208,7261.9,1.58
+673,SOK15_3488,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,34956.88371411603,4194.8,0.12
+677,SOK15_2822,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,8963.80377997762,1075.7,0.12
+679,SOK15_1158,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,65588.18869489082,7870.6,0.12
+680,SOK15_2797,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12765.519387689685,1531.9,0.12
+681,SOK15_1180,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,24623.74407271246,38413.0,1.56
+682,SOK15_3647,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,17328.951383112726,2079.5,0.12
+684,SOK15_2272,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,33547.14615667386,52669.0,1.57
+685,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,7718.022911060763,31335.2,4.06
+686,SOK15_3591,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1754.9204610452225,2772.8,1.58
+690,SOK15_1034,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7011.146720592445,10937.4,1.56
+691,SOK15_3442,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,70951.45264781741,288062.9,4.06
+692,SOK15_2209,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,16132.318905611677,65497.2,4.06
+693,SOK15_730,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,26300.012030840087,41291.0,1.57
+694,SOK15_2038,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,32573.521298317843,3908.8,0.12
+695,SOK15_2062,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1111.4838896161286,133.4,0.12
+697,SOK15_1933,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32510.205434039886,51041.0,1.57
+702,SOK15_2258,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2118.5977847936424,2097.4,0.99
+704,SOK15_3638,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9262.006772170145,1111.4,0.12
+705,SOK15_3652,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,20264.859462163997,2431.8,0.12
+713,SOK15_1942,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,42911.90347963483,67371.7,1.57
+715,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,10521.41579232824,16623.8,1.58
+716,SOK15_3229,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,23547.455120788713,55572.0,2.36
+720,SOK15_3422,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,13831.136750087819,21714.9,1.57
+722,SOK15_3633,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8200.677535724737,12875.1,1.57
+723,SOK15_2437,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,20167.765404365862,31461.7,1.56
+725,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7707.723355366605,12024.0,1.56
+726,SOK15_704,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12513.832137574718,19646.7,1.57
+730,SOK15_2065,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,22498.792376783906,35323.1,1.57
+734,SOK15_3635,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,8608.739673835462,1033.0,0.12
+735,SOK15_1108,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,67431.74110783056,8091.8,0.12
+736,SOK15_5089,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5519.998744597532,8666.4,1.57
+738,SOK15_918,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,30161.483596980943,47655.1,1.58
+743,SOK15_3389,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,11138.070676403935,17486.8,1.57
+745,SOK15_2069,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,35669.80332118156,56001.6,1.57
+746,SOK15_3531,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,6338.703633555721,0.0,0.0
+748,SOK15_1084,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,26692.403452729275,41907.1,1.57
+749,SOK15_2063,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,36642.78649534662,4397.1,0.12
+750,SOK15_3301,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,484.3952004759414,760.5,1.57
+754,SOK15_1975,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,52575.81156007125,6309.1,0.12
+756,SOK15_2465,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,7608.218217574873,11944.9,1.57
+759,SOK15_301,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,85092.92271256482,200819.3,2.36
+760,SOK15_2456,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,Apricots,0.0,7909.887508950728,18667.3,2.36
+761,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,18908.971653792247,29498.0,1.56
+763,SOK15_1026,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,35415.278097416325,55602.0,1.57
+769,SOK15_1093,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,38033.52934812105,4564.0,0.12
+770,SOK15_2795,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,5294.791137446755,635.4,0.12
+771,SOK15_8486,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1154.11608534916,1812.0,1.57
+776,SOK15_8764,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3715.893723312245,8769.5,2.36
+777,SOK15_1088,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32237.363593710485,50612.7,1.57
+780,SOK15_3242,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,30624.712366890188,72274.3,2.36
+781,SOK15_2029,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,25951.75247036532,40744.3,1.57
+784,SOK15_3618,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9198.311921424345,1103.8,0.12
+786,SOK15_173,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,32937.153273336364,51711.3,1.57
+789,SOK15_1954,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,61617.94794058519,7394.2,0.12
+791,SOK15_640,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4303.149799573589,6712.9,1.56
+793,SOK15_3312,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,607.3458273796637,953.5,1.57
+794,SOK15_2193,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,40684.3229709826,63874.4,1.57
+795,SOK15_1104,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,121040.4433494702,14524.9,0.12
+796,SOK15_3590,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,Misc. vegetables,0.0,29832.93431894629,50417.7,1.69
+798,SOK15_3516,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,8696.571688580883,20523.9,2.36
+799,SOK15_7584,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5491.389316686733,8676.4,1.58
+800,SOK15_1985,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,24747.765170621573,39101.5,1.58
+803,SOK15_2206,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8832.202092711452,13954.9,1.58
+806,SOK15_264,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,6368.594235761155,9998.7,1.57
+812,SOK15_3672,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4724.605338318623,567.0,0.12
+813,SOK15_7344,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,183.60025090201282,290.1,1.58
+816,SOK15_7615,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4610.282000547924,7238.1,1.57
+819,SOK15_3440,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Cedar hedging,,0.0,22157.833206581738,160865.9,7.26
+822,SOK15_2148,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,39516.13020882224,62040.3,1.57
+823,SOK15_8648,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,14714.754343225986,23102.2,1.57
+824,SOK15_3658,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,63579.62331791184,7629.6,0.12
+825,SOK15_1941,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,19978.77316143942,2397.5,0.12
+826,SOK15_2825,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,1370.0792597432005,4630.9,3.38
+828,SOK15_7632,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,Mixed fruits,0.0,1691.2488721160407,3991.3,2.36
+830,SOK15_2197,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,81923.38633989381,9830.8,0.12
+832,SOK15_7622,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1939.9209370607753,3045.7,1.57
+836,SOK15_1102,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,719.8147091703889,86.4,0.12
+839,SOK15_3359,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,30433.445624585453,47780.5,1.57
+843,SOK15_3425,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,34497.27940883954,4139.7,0.12
+847,SOK15_2200,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,39487.07765314418,61994.7,1.57
+849,SOK15_1140,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,26380.55703073809,3165.7,0.12
+850,SOK15_2108,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,19279.117863820895,36630.3,1.9
+851,SOK15_281,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,7904.265817446949,12409.7,1.57
+858,SOK15_670,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,25854.711039275124,40333.3,1.56
+859,SOK15_942,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4625.187918212801,10915.4,2.36
+861,SOK15_3351,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,13996.152324790963,21834.0,1.56
+866,SOK15_2944,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2992.8191202896282,4698.7,1.57
+870,SOK15_8855,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12315.48952104024,19335.3,1.57
+872,SOK15_3659,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,11889.10267263566,1426.7,0.12
+879,SOK15_3343,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,7492.7573863173475,14236.2,1.9
+880,SOK15_2943,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3040.523614503913,3010.1,0.99
+881,SOK15_2328,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,144045.41364676898,17285.4,0.12
+884,SOK15_4844,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2213.3774508808283,3475.0,1.57
+885,SOK15_1153,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,68316.70587857277,8198.0,0.12
+886,SOK15_2622,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,19726.4028975751,46554.3,2.36
+887,SOK15_1095,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,18667.36442747702,44055.0,2.36
+890,SOK15_283,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,30781.0614831396,72643.3,2.36
+892,SOK15_1117,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,26765.822832983955,42022.3,1.57
+893,SOK15_3218,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5304.728315836527,8275.4,1.56
+896,SOK15_2004,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,16137.437304487663,25174.4,1.56
+897,SOK15_3403,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,23101.380584959177,36269.2,1.57
+898,SOK15_3335,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,42301.19633060824,66412.9,1.57
+899,SOK15_3660,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,51671.73929231628,6200.6,0.12
+900,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,6812.449861949623,10763.7,1.58
+901,SOK15_7419,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2560.5285092697604,6042.8,2.36
+904,SOK15_2170,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,20816.270202296484,20608.1,0.99
+906,SOK15_3299,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,25830.07349800822,49077.1,1.9
+907,SOK15_2818,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,23887.581109905575,2866.5,0.12
+910,SOK15_1971,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,23271.508629774653,44215.9,1.9
+911,SOK15_1992,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,25127.68939618325,39701.7,1.58
+912,SOK15_3381,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,55036.252887576375,6604.4,0.12
+913,SOK15_3346,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12023.254332835151,1442.8,0.12
+914,SOK15_3405,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,18019.06040951142,2162.3,0.12
+916,SOK15_2837,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,19510.283504054325,2341.2,0.12
+917,SOK15_2480,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,7311.660794436339,7238.5,0.99
+924,SOK15_2161,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,36402.040445984596,57151.2,1.57
+925,SOK15_2163,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,20084.50472126514,31733.5,1.58
+926,SOK15_2034,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,36681.78060366172,4401.8,0.12
+927,SOK15_8652,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3997.18358530579,6275.6,1.57
+929,SOK15_6855,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1382.1044529277592,165.9,0.12
+938,SOK15_8510,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3403.0079948007437,5342.7,1.57
+943,SOK15_6844,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,167.79460143539555,265.1,1.58
+944,SOK15_6833,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,36181.45872811712,57166.7,1.58
+947,SOK15_6803,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,31905.728562617216,50411.1,1.58
+948,SOK15_6452,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3605.169729114973,5660.1,1.57
+949,SOK15_6425,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,18858.721072269767,29796.8,1.58
+957,SOK15_6781,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,14161.507954069682,1699.4,0.12
+962,SOK15_6358,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,7272.2247989997995,13817.2,1.9
+964,SOK15_2957,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2056.635652362299,3228.9,1.57
+965,SOK15_2941,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,17344.171195812327,2081.3,0.12
+968,SOK15_3374,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7117.543196297067,854.1,0.12
+969,SOK15_2898,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,19208.895637337304,36496.9,1.9
+970,SOK15_2964,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1910.4895771798574,229.3,0.12
+974,SOK15_3370,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,22163.44811328959,34796.6,1.57
+975,SOK15_3210,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4403.288952957474,4359.3,0.99
+976,SOK15_2968,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,19454.132502073764,2334.5,0.12
+978,SOK15_3380,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5279.380595652793,633.5,0.12
+979,SOK15_3372,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,30632.921042881702,3676.0,0.12
+980,SOK15_2893,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,17523.251907824237,33294.2,1.9
+983,SOK15_2843,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,12250.363319582159,28910.9,2.36
+984,SOK15_2960,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5740.723220486355,688.9,0.12
+985,SOK15_2971,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,5181.895427238472,0.0,0.0
+986,SOK15_3008,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5123.064765664984,8043.2,1.57
+987,SOK15_5293,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,406927.4301274362,48831.3,0.12
+988,SOK15_2443,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,28203.858513149044,3384.5,0.12
+989,SOK15_8674,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1858.9414933360301,2937.1,1.58
+990,SOK15_8673,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,79.97476416851526,188.7,2.36
+991,SOK15_8551,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,188.85991846778342,445.7,2.36
+992,SOK15_8551,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,362.646206551376,573.0,1.58
+993,SOK15_264,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,10360.193135332622,19684.4,1.9
+998,SOK15_296,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,432.2302613358699,674.3,1.56
+999,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,11830.47098726916,18455.5,1.56
+1000,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7845.982296727374,12396.7,1.58
+1001,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8522.474577768518,13465.5,1.58
+1002,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2198.8276957113853,3474.1,1.58
+1003,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,19329.76504054451,45618.2,2.36
+1005,SOK15_291,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4647.574776025059,10968.3,2.36
+1006,SOK15_290,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,406.8488848890647,960.2,2.36
+1020,SOK15_729,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,7899.308721111434,16035.6,2.03
+1021,SOK15_729,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5184.248746775075,8087.4,1.56
+1022,SOK15_729,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,5267.067932334334,8322.0,1.58
+1027,SOK15_438,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,378.53884407922465,598.1,1.58
+1028,SOK15_438,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,985.4142589291042,1557.0,1.58
+1036,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,9293.003590473156,9200.1,0.99
+1038,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8061.695969143459,12737.5,1.58
+1040,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3853.6209972278234,9094.5,2.36
+1041,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,4466.9887651656345,7057.8,1.58
+1042,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4976.65594916259,7863.1,1.58
+1043,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3023.182294690278,4716.2,1.56
+1044,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1142.3997048075896,1805.0,1.58
+1045,SOK15_439,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,706.3453284017908,1116.0,1.58
+1093,SOK15_37,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,10703.14654833826,16803.9,1.57
+1137,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1625.5371729599783,2568.3,1.58
+1139,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1085.6208642432196,1715.3,1.58
+1140,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1666.3497219260626,2632.8,1.58
+1141,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,6554.351674031377,10355.9,1.58
+1142,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,764.6701548180939,757.0,0.99
+1143,SOK15_188,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3850.928144523668,6084.5,1.58
+1187,SOK15_1038,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1860.6309707623525,2939.8,1.58
+1190,SOK15_717,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,13406.718159972062,20914.5,1.56
+1191,SOK15_717,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4502.436461032426,7113.8,1.58
+1192,SOK15_719,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,7313.504995969979,11555.3,1.58
+1193,SOK15_721,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4794.164867461599,7478.9,1.56
+1194,SOK15_721,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,5625.199638935424,8887.8,1.58
+1195,SOK15_664,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,715.254004244281,1130.1,1.58
+1196,SOK15_647,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7773.7116472430735,12127.0,1.56
+1222,SOK15_666,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,14788.226534168154,23069.6,1.56
+1223,SOK15_666,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4494.592557012422,7011.6,1.56
+1224,SOK15_666,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,6885.097845987716,10878.5,1.58
+1225,SOK15_685,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1035.183981633295,2443.0,2.36
+1226,SOK15_670,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,14141.271578353575,33373.4,2.36
+1227,SOK15_704,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4436.045228996103,6964.6,1.57
+1228,SOK15_1183,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,971.9658090906516,2293.8,2.36
+1230,SOK15_1182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3404.9513867187975,8035.7,2.36
+1231,SOK15_1182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,12594.08127254134,19898.6,1.58
+1240,SOK15_1189,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,13138.00595220781,20626.7,1.57
+1249,SOK15_1197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,10030.531527838953,15848.2,1.58
+1250,SOK15_1197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,591.6012659090045,934.7,1.58
+1251,SOK15_1197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2657.423804345339,2630.8,0.99
+1254,SOK15_1197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3256.9726815278686,7686.5,2.36
+1255,SOK15_1197,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,6350.035504776396,9906.1,1.56
+1257,SOK15_934,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,973.1172204210751,1537.5,1.58
+1258,SOK15_1020,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3139.212139786882,7408.5,2.36
+1259,SOK15_1020,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1365.6497879405686,3222.9,2.36
+1273,SOK15_921,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2709.256223135937,4253.5,1.57
+1277,SOK15_923,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3929.355647158647,6129.8,1.56
+1279,SOK15_928,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2015.3793382240156,3144.0,1.56
+1280,SOK15_928,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,2442.5587398558896,3859.2,1.58
+1281,SOK15_937,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,894.0445949783502,1394.7,1.56
+1282,SOK15_940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3993.93704228412,9425.7,2.36
+1286,SOK15_942,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,412.9520491988103,408.8,0.99
+1287,SOK15_942,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,Mixed vegetables,0.0,963.574078791697,2274.0,2.36
+1289,SOK15_992,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,928.704253086124,1448.8,1.56
+1296,SOK15_1030,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1279.6374712129902,1996.2,1.56
+1300,SOK15_960,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,25572.256763234363,60350.5,2.36
+1304,SOK15_965,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6084.877223830791,14360.3,2.36
+1305,SOK15_965,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,6239.755272708581,9858.8,1.58
+1309,SOK15_969,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4589.967626140387,7160.3,1.56
+1310,SOK15_975,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,34961.728355891195,82509.7,2.36
+1311,SOK15_1124,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,348.06468856971014,549.9,1.58
+1313,SOK15_1125,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,611.7301436690003,966.5,1.58
+1316,SOK15_1126,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4408.441457475629,6965.3,1.58
+1318,SOK15_1126,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7058.543657722982,16658.2,2.36
+1319,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,847.3074150068093,1321.8,1.56
+1320,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,13344.799433652452,31493.7,2.36
+1322,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,2217.988834013915,3504.4,1.58
+1323,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4982.9739892129965,7773.4,1.56
+1324,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1972.3709768148087,4654.8,2.36
+1325,SOK15_1129,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,473.45844637568814,748.1,1.58
+1326,SOK15_1131,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,25827.85805763705,40808.0,1.58
+1328,SOK15_1131,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2290.05156017753,4351.1,1.9
+1330,SOK15_1131,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4027.4756736015215,6282.9,1.56
+1333,SOK15_1136,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,9935.225717325418,23447.1,2.36
+1335,SOK15_1095,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,11207.133998759775,17483.1,1.56
+1339,SOK15_1100,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,8260.410489989887,19494.6,2.36
+1340,SOK15_1100,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,25189.48082832241,39547.5,1.57
+1341,SOK15_1100,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,4874.568066965839,9895.4,2.03
+1345,SOK15_1108,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,5031.556429156778,603.8,0.12
+1346,SOK15_1107,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,6243.130683258173,6180.7,0.99
+1347,SOK15_1111,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1416.3454506097053,2223.7,1.57
+1348,SOK15_1113,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,14125.534536085432,22177.1,1.57
+1349,SOK15_1113,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,23953.56098350687,37607.1,1.57
+1350,SOK15_1116,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2496.0396563197364,5067.0,2.03
+1351,SOK15_1116,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3187.656002241292,4972.7,1.56
+1352,SOK15_1116,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,418.42425552386,661.1,1.58
+1353,SOK15_1119,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1215.3945573945018,2868.3,2.36
+1354,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7240.065167737354,17086.6,2.36
+1355,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,637.6902245114067,1007.6,1.58
+1356,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,11327.195706494264,17670.4,1.56
+1357,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1279.6066485588549,2021.8,1.58
+1358,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4357.18200790473,4313.6,0.99
+1359,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3832.332006508396,5978.4,1.56
+1360,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3965.4210397635566,3925.8,0.99
+1361,SOK15_1940,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6955.664333719578,16415.4,2.36
+1366,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,10515.692622771985,10410.5,0.99
+1367,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,11631.258132374729,18144.8,1.56
+1368,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5521.5473260502085,8613.6,1.56
+1369,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1904.575822672118,3009.2,1.58
+1370,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,936.3841603815248,1470.1,1.57
+1371,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1852.6877892279567,2927.2,1.58
+1373,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5161.104634801803,8051.3,1.56
+1374,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4403.047436646903,6956.8,1.58
+1375,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3762.531346328614,5869.5,1.56
+1376,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7551.552059992237,17821.7,2.36
+1377,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,15283.423719377515,36068.9,2.36
+1380,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1845.941581547698,2916.6,1.58
+1381,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,6635.224533159834,10483.7,1.58
+1382,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8898.009910898787,14058.9,1.58
+1383,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3196.0657101770944,7542.7,2.36
+1384,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1989.6507175767379,1969.8,0.99
+1385,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2065.069670725646,4873.6,2.36
+1386,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1884.8789954489887,2978.1,1.58
+1387,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4394.142361784705,6942.7,1.58
+1388,SOK15_1957,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1842.8296550939895,2874.8,1.56
+1389,SOK15_1960,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1908.043228552207,3014.7,1.58
+1390,SOK15_1960,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,619.841483812242,967.0,1.56
+1391,SOK15_1960,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,769.1095871241968,1215.2,1.58
+1392,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7264.318725475669,11477.6,1.58
+1393,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7794.687835889284,12159.7,1.56
+1394,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9704.514814933811,15333.1,1.58
+1395,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1630.4659063121378,2576.1,1.58
+1396,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3431.835855668255,5353.7,1.56
+1397,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2507.820239332149,3912.2,1.56
+1398,SOK15_1961,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1774.48164203159,2803.7,1.58
+1399,SOK15_1966,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,15123.705995459579,35691.9,2.36
+1400,SOK15_1971,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,11965.884537627555,1435.9,0.12
+1443,SOK15_1983,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,14813.413294547237,1777.6,0.12
+1446,SOK15_2032,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4179.407033305577,4137.6,0.99
+1447,SOK15_2032,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,33272.92142225491,78524.1,2.36
+1448,SOK15_2032,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,10988.546705278073,17361.9,1.58
+1450,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1355.7718980344903,2142.1,1.58
+1452,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3567.6005321509074,5636.8,1.58
+1453,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,Apples,0.0,7046.446696149269,10992.5,1.56
+1454,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2129.8384298336496,3322.5,1.56
+1455,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,3470.8206551452545,7045.8,2.03
+1456,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3546.4273152157375,3511.0,0.99
+1458,SOK15_2045,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2636.2383051900965,2609.9,0.99
+1459,SOK15_2045,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,21184.62325112024,33048.0,1.56
+1461,SOK15_2048,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4321.133678333435,4277.9,0.99
+1463,SOK15_2048,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,6104.233001272289,9522.6,1.56
+1464,SOK15_2048,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2048.3976033893837,3236.5,1.58
+1465,SOK15_2048,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3460.0285000782387,5397.6,1.56
+1470,SOK15_1997,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,16506.107953363095,26079.7,1.58
+1476,SOK15_2004,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5813.553771782353,9185.4,1.58
+1529,SOK15_2143,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2249.704324222811,5309.3,2.36
+1537,SOK15_7114,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4394.6803202292285,6899.6,1.57
+1538,SOK15_5259,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,11662.270768575621,1399.5,0.12
+1539,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,19084.090621921227,30152.9,1.58
+1542,SOK15_1975,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1019.9026284546617,2070.4,2.03
+1543,SOK15_1975,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,5134.100492798619,10422.2,2.03
+1552,SOK15_2057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4627.66295200498,4581.4,0.99
+1553,SOK15_2057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1672.6677351445126,2642.8,1.58
+1554,SOK15_2057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,12247.827801323532,28904.9,2.36
+1557,SOK15_2057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,7386.38531490826,7312.5,0.99
+1558,SOK15_2051,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3177.8572332363287,5021.0,1.58
+1559,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6257.974829595184,14768.8,2.36
+1560,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,671.5117307694813,0.0,0.0
+1561,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,5253.036045055021,5200.5,0.99
+1562,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,6933.65930932574,14075.3,2.03
+1563,SOK15_2071,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2863.6557497898934,343.6,0.12
+1564,SOK15_2184,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1582.5499488907556,2484.6,1.57
+1565,SOK15_2179,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,622.5680490318091,977.4,1.57
+1566,SOK15_2179,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1073.6947211566353,1696.4,1.58
+1568,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,3798.2225686144893,6001.2,1.58
+1569,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5649.993993946841,8927.0,1.58
+1570,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2603.7200887412105,4113.9,1.58
+1571,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5042.6762870896,7967.4,1.58
+1572,SOK15_2182,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5545.21561222318,8761.4,1.58
+1574,SOK15_2186,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2384.215715169108,3767.1,1.58
+1575,SOK15_2186,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,15578.508537769732,36765.3,2.36
+1577,SOK15_2186,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5719.520470450547,8922.5,1.56
+1580,SOK15_2285,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5508.086142246632,8702.8,1.58
+1581,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,5340.827289011141,5287.4,0.99
+1582,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,8361.173595703023,13043.4,1.56
+1583,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4909.103364083887,7756.4,1.58
+1584,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1769.4340159236956,3592.0,2.03
+1585,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,16109.693967561072,25131.1,1.56
+1586,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,523.8676066491516,518.6,0.99
+1587,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1963.4109690177324,3102.2,1.58
+1588,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1775.8675872139966,3605.0,2.03
+1589,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,3610.3802377789552,12203.1,3.38
+1590,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,2550.681719908141,4310.7,1.69
+1591,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2617.345372980289,4083.1,1.56
+1596,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1598.5905994935383,3772.7,2.36
+1597,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1153.3963176224631,1822.4,1.58
+1598,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1633.454840233386,1617.1,0.99
+1599,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,415.939884346887,657.2,1.58
+1600,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,988.7228784506862,1552.3,1.57
+1601,SOK15_2320,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,400.3758314150284,628.6,1.57
+1602,SOK15_2166,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1565.0671676841373,2472.8,1.58
+1604,SOK15_2166,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1632.621234576455,2579.5,1.58
+1605,SOK15_2166,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2048.7536473096307,2028.3,0.99
+1608,SOK15_2166,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,6224.979104138695,6162.7,0.99
+1615,SOK15_2206,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1949.9630677978935,3061.4,1.57
+1616,SOK15_2206,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2380.819239617569,3761.7,1.58
+1617,SOK15_2206,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2672.7374610718657,4196.2,1.57
+1618,SOK15_2206,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4535.483822297801,4490.1,0.99
+1619,SOK15_2211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,580.9467107287587,917.9,1.58
+1620,SOK15_2211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,423.7474472915105,669.5,1.58
+1621,SOK15_2211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4772.588259660371,7540.7,1.58
+1631,SOK15_2145,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2617.8419925651747,4973.9,1.9
+1632,SOK15_2145,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,3113.0355503628525,4918.6,1.58
+1633,SOK15_2145,Anthropogenic - Vegetated - Cultivated,Tree fruits,,,0.0,11809.383904229668,18658.8,1.58
+1634,SOK15_2147,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2046.3623784356034,2025.9,0.99
+1635,SOK15_2147,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,16195.982669694271,25589.7,1.58
+1636,SOK15_2147,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,7062.280420804433,11017.2,1.56
+1637,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1619.6475056031743,3287.9,2.03
+1638,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4236.342197479368,4194.0,0.99
+1639,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,11773.377141282657,23900.0,2.03
+1640,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2791.7316787043474,5667.2,2.03
+1641,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,Pears,0.0,10757.05040921765,10649.5,0.99
+1642,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3272.467841464456,5170.5,1.58
+1643,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,10339.457532058836,16336.3,1.58
+1644,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4303.428413340626,6713.3,1.56
+1646,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2751.9358612101573,4293.0,1.56
+1647,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2402.726075908984,5670.4,2.36
+1648,SOK15_2217,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1830.9936279648462,2893.0,1.58
+1688,SOK15_2448,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2931.2763386422153,6917.8,2.36
+1689,SOK15_2448,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3606.4501728372647,5626.1,1.56
+1690,SOK15_2448,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4504.349425122428,7026.8,1.56
+1692,SOK15_2448,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1083.2642175559174,1072.4,0.99
+1726,SOK15_2779,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,25720.08526844438,40637.7,1.58
+1727,SOK15_2782,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,6226.044290555931,9712.6,1.56
+1728,SOK15_2782,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,35623.169740264595,84070.7,2.36
+1731,SOK15_2782,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2772.2869554892745,6542.6,2.36
+1734,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,37397.41952024851,88257.9,2.36
+1735,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,9703.452759212994,15137.4,1.56
+1736,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,5046.334829696708,4995.9,0.99
+1737,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2236.97483599803,3489.7,1.56
+1738,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,6845.117172636739,13895.6,2.03
+1739,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6432.6604337745275,15181.1,2.36
+1740,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4807.768712410012,7596.3,1.58
+1741,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1921.140688685172,3899.9,2.03
+1742,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,993.7413032750306,983.8,0.99
+1743,SOK15_2800,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,5961.8830935203505,5902.3,0.99
+1744,SOK15_2843,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,11807.166486660202,18655.3,1.58
+1745,SOK15_2807,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,514.1183317197335,812.3,1.58
+1746,SOK15_2511,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1615.3258189952712,2552.2,1.58
+1747,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1588.2258054721922,2477.6,1.56
+1748,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1106.6462542821,2611.7,2.36
+1749,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1087.2650425898833,1076.4,0.99
+1750,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4472.898770002272,7067.2,1.58
+1751,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3857.2096572340197,6094.4,1.58
+1752,SOK15_2810,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1127.809332353387,1116.5,0.99
+1753,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,8506.715626501282,13270.5,1.56
+1754,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3474.418322414036,8199.6,2.36
+1755,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5331.929801745882,8424.4,1.58
+1756,SOK15_2819,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2699.1411504843727,4264.6,1.58
+1757,SOK15_2820,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2113.47417827216,2092.3,0.99
+1767,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2273.2746672927183,3569.0,1.57
+1769,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7816.5227847580345,12350.1,1.58
+1770,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2165.352740658585,5110.2,2.36
+1771,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2944.3346399001425,4652.0,1.58
+1772,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,1906.3920897903176,0.0,0.0
+1773,SOK15_2827,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,3368.1319466528425,5321.6,1.58
+1789,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,7066.532911994424,14345.1,2.03
+1790,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,8491.61561262311,13246.9,1.56
+1791,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1971.7877696748797,4653.4,2.36
+1794,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1781.0217136931558,2778.4,1.56
+1795,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,8874.177023388642,13843.7,1.56
+1796,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3268.417611136993,5164.1,1.58
+1840,SOK15_2993,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2640.8436779010062,6232.4,2.36
+1841,SOK15_2993,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,6960.274955096704,10858.0,1.56
+1842,SOK15_2993,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1275.8391788191182,2424.1,1.9
+1843,SOK15_2993,Anthropogenic - Vegetated - Cultivated,Vines & berries,,,0.0,1273.93120199742,2051.0,1.61
+1847,SOK15_2917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,542.4894968640812,857.1,1.58
+1848,SOK15_2917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1513.4139216788592,2391.2,1.58
+1849,SOK15_2932,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,745.269996814903,1758.8,2.36
+1850,SOK15_2917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1581.217176330955,3731.7,2.36
+1851,SOK15_2917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2296.1787641244932,4661.2,2.03
+1855,SOK15_2917,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2172.796675150956,3389.6,1.56
+1861,SOK15_2944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,846.6735598426424,1718.7,2.03
+1862,SOK15_2944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2017.4498901349318,4761.2,2.36
+1863,SOK15_2943,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2937.2055932965063,4611.4,1.57
+1864,SOK15_2943,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,525.9985281279077,820.6,1.56
+1865,SOK15_2943,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,812.4511895237274,1917.4,2.36
+1867,SOK15_3211,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,415.48017449004186,980.5,2.36
+1868,SOK15_2913,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,580.1738402199786,910.9,1.57
+1869,SOK15_2913,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,809.6984112293567,1279.3,1.58
+1888,SOK15_3244,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,12779.739778878584,20192.0,1.58
+1891,SOK15_3244,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,Tomatoes,0.0,4558.644540853403,10758.4,2.36
+1893,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,382.87894523796945,604.9,1.58
+1894,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3714.796217812263,8766.9,2.36
+1895,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2289.309352903463,3571.3,1.56
+1896,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1155.8880706590485,1826.3,1.58
+1897,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,436.9993624567023,690.5,1.58
+1898,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,234.91810627875648,232.6,0.99
+1899,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2720.8110444135395,2693.6,0.99
+1900,SOK15_3270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2325.9888064630595,4721.8,2.03
+1907,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,605.5612887919762,956.8,1.58
+1909,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2726.0443849200365,6433.5,2.36
+1911,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4905.88673028326,7653.2,1.56
+1912,SOK15_3335,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,368.0590476725501,581.5,1.58
+1913,SOK15_3335,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1393.2997860063947,2173.5,1.56
+1914,SOK15_3335,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1857.238527380071,4383.1,2.36
+1915,SOK15_3335,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1913.5892479606682,2985.2,1.56
+1917,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1222.799131060352,1907.6,1.56
+1922,SOK15_3341,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1669.138398953532,1652.4,0.99
+1924,SOK15_3341,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6426.68187850463,15167.0,2.36
+1925,SOK15_3341,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4328.697472484411,6839.3,1.58
+1926,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,939.4545155814585,930.1,0.99
+1929,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1759.1619844750478,2779.5,1.58
+1930,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,4479.588064976973,9093.6,2.03
+1931,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2473.9719701506183,3859.4,1.56
+1932,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1757.1138475615348,3338.5,1.9
+1933,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1649.8283487959447,3893.6,2.36
+1934,SOK15_3336,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Fruit / berry stock,,0.0,1766.0993140280043,12821.9,7.26
+1937,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1396.845781667621,2179.1,1.56
+1938,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1997.8276512799955,4714.9,2.36
+1939,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,702.810031903615,1110.4,1.58
+1940,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1072.192324685772,2176.6,2.03
+1942,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,464.7624835948315,460.1,0.99
+1943,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,579.5819493275133,904.1,1.56
+1944,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,463.97751454817995,723.8,1.56
+1945,SOK15_3345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1375.0049562391216,2172.5,1.58
+1948,SOK15_3356,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,10810.08038711663,20539.2,1.9
+1949,SOK15_3356,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1108.8531743447888,1752.0,1.58
+1950,SOK15_3516,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4242.4613517841035,6703.1,1.58
+1951,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1175.2751782450819,2773.6,2.36
+1952,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1027.3085363273524,1017.0,0.99
+1953,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2687.1079895717403,5454.8,2.03
+1954,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3473.1805453213774,5418.2,1.56
+1955,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2177.6806722260203,2155.9,0.99
+1956,SOK15_3518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,2441.816013636019,3858.1,1.58
+1957,SOK15_3525,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,398.81419255697114,630.1,1.58
+1987,SOK15_4534,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8903.052327033738,14066.8,1.58
+1989,SOK15_4534,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7448.303065719541,11768.3,1.58
+1990,SOK15_4534,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,8919.719091014662,21050.5,2.36
+1992,SOK15_5939,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,996.6149005099862,2023.1,2.03
+1997,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8450.756686157058,13352.2,1.58
+1998,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,950.8944702015408,1502.4,1.58
+1999,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,436.3875519118085,1029.9,2.36
+2000,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,577.8206790096676,913.0,1.58
+2001,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4762.749104977292,7477.5,1.57
+2003,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2442.2432297550627,5763.7,2.36
+2004,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2653.701687442762,6262.7,2.36
+2005,SOK15_4785,Anthropogenic - Vegetated - Cultivated,Vegetables,Sweet corn,,0.0,804.0567879274535,699.5,0.87
+2006,SOK15_4784,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9906.46333773679,15652.2,1.58
+2007,SOK15_4784,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2250.980803900731,4276.9,1.9
+2009,SOK15_4784,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,10082.025517673012,15828.8,1.57
+2010,SOK15_4784,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,378.5889321115374,719.3,1.9
+2011,SOK15_4787,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,4564.358876154678,8672.3,1.9
+2019,SOK15_8492,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,18.029536176426046,28.3,1.57
+2020,SOK15_8515,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1226.7299131231114,1913.7,1.56
+2021,SOK15_8515,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,260.109769551645,613.9,2.36
+2022,SOK15_8515,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,312.6220492796191,634.6,2.03
+2023,SOK15_8506,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1924.3363874970612,3002.0,1.56
+2024,SOK15_8506,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1538.695189629734,3631.3,2.36
+2025,SOK15_8428,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1811.5614720842398,2862.3,1.58
+2026,SOK15_8428,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,622.8475750853959,1264.4,2.03
+2027,SOK15_6844,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,843.5215598349886,1332.8,1.58
+2028,SOK15_6844,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,375.3701630323308,762.0,2.03
+2029,SOK15_6844,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,274.89796489066055,648.8,2.36
+2030,SOK15_6842,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,755.5684199538659,1533.8,2.03
+2031,SOK15_6842,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,91.06344923916429,0.0,0.0
+2033,SOK15_6349,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1380.0793595645903,2801.6,2.03
+2034,SOK15_6781,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2894.866741546761,4573.9,1.58
+2035,SOK15_6818,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,822.916142179517,1300.2,1.58
+2036,SOK15_6836,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,64655.972931987635,102156.4,1.58
+2067,SOK15_8764,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,11928.024780231917,24213.9,2.03
+2068,SOK15_8764,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,817.1153485946415,1291.0,1.58
+2069,SOK15_8764,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1769.635262629012,2796.0,1.58
+2072,SOK15_8742,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1217.2545982268232,1923.3,1.58
+2075,SOK15_7763,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1225.0936763464133,2486.9,2.03
+2076,SOK15_7760,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,379.8665953304727,600.2,1.58
+2086,SOK15_7660,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,560.1067305325249,885.0,1.58
+2088,SOK15_7614,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3445.9434076776292,5444.6,1.58
+2090,SOK15_7558,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,756.8989855067225,1195.9,1.58
+2091,SOK15_7558,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,928.0175270288925,1466.3,1.58
+2092,SOK15_7558,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1919.333066631318,4529.6,2.36
+2093,SOK15_7558,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,846.5877841887582,1608.5,1.9
+2094,SOK15_7530,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4457.3044842315585,10519.2,2.36
+2095,SOK15_7530,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1762.9167778411386,2785.4,1.58
+2096,SOK15_7539,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,855.067521502236,2018.0,2.36
+2097,SOK15_7413,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2112.2554231383847,4984.9,2.36
+2098,SOK15_7413,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1454.2565190805599,3432.0,2.36
+2099,SOK15_7346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,680.8201569161656,1062.1,1.56
+2100,SOK15_7345,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,373.1068246965559,589.5,1.58
+2115,SOK15_1121,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,63922.83892417929,7670.7,0.12
+2116,SOK15_1138,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,24655.91433401567,2958.7,0.12
+2117,SOK15_1138,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2276.276397564509,2253.5,0.99
+2118,SOK15_1138,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5800.494579381732,696.1,0.12
+2119,SOK15_1141,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,859.0787335737451,1357.3,1.58
+2120,SOK15_1141,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,6835.767898398711,0.0,0.0
+2121,SOK15_1093,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,23557.56682595875,2826.9,0.12
+2122,SOK15_1173,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2953.453913423433,354.4,0.12
+2123,SOK15_1954,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,2650.704637584483,10761.9,4.06
+2124,SOK15_2033,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2402.447761296897,288.3,0.12
+2125,SOK15_2033,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3224.515669004476,3192.3,0.99
+2126,SOK15_2063,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4733.024527128405,568.0,0.12
+2127,SOK15_2063,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,3220.8914656933953,5089.0,1.58
+2128,SOK15_2044,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5952.541186338686,714.3,0.12
+2132,SOK15_2029,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,6653.745297917135,10446.4,1.57
+2133,SOK15_2047,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4440.921384346996,6972.2,1.57
+2134,SOK15_2047,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,6275.84979358382,753.1,0.12
+2135,SOK15_2047,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,444.61148295288507,698.0,1.57
+2136,SOK15_2050,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3714.550979387733,445.7,0.12
+2137,SOK15_2043,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,17872.773836730077,2144.7,0.12
+2138,SOK15_2053,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1169.728545941537,140.4,0.12
+2139,SOK15_2053,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3837.4450383686626,460.5,0.12
+2140,SOK15_2061,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,42184.874882272576,66230.3,1.57
+2141,SOK15_2065,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4473.021191522731,7022.6,1.57
+2142,SOK15_2064,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,15826.180337215645,24847.1,1.57
+2144,SOK15_2174,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2230.2957300941794,3501.6,1.57
+2145,SOK15_2194,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12890.737705481784,20238.5,1.57
+2147,SOK15_2197,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,13996.73127172237,1679.6,0.12
+2148,SOK15_2200,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,22239.5754409205,34916.1,1.57
+2149,SOK15_2272,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,38731.47488409356,60808.4,1.57
+2150,SOK15_2282,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1809.6874072731027,3438.4,1.9
+2151,SOK15_2296,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,14247.403134814762,1709.7,0.12
+2152,SOK15_2296,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2211.8571835992966,265.4,0.12
+2153,SOK15_1211,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,35050.81439389531,55029.8,1.57
+2154,SOK15_1211,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,23006.016328231424,36119.4,1.57
+2155,SOK15_1211,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,100394.52789032126,12047.3,0.12
+2157,SOK15_1211,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12686.915812698408,19918.5,1.57
+2160,SOK15_1211,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,80369.327794621,126179.8,1.57
+2163,SOK15_5293,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12078.684353924962,1449.4,0.12
+2164,SOK15_5293,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,4465.246495169224,535.8,0.12
+2165,SOK15_5293,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,19455.464535469637,2334.7,0.12
+2166,SOK15_2020,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3201.435192987974,5058.3,1.58
+2167,SOK15_2108,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,11039.784760695376,26053.9,2.36
+2169,SOK15_2159,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1936.667144031075,1917.3,0.99
+2170,SOK15_2154,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1092.950033673378,1726.9,1.58
+2171,SOK15_2155,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,3167.327263006961,6017.9,1.9
+2177,SOK15_2303,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1070.9169990824896,1692.0,1.58
+2178,SOK15_2326,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,12369.708834775261,1484.4,0.12
+2179,SOK15_2326,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3860.400008053005,3821.8,0.99
+2180,SOK15_2326,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,21563.743847883175,21348.1,0.99
+2181,SOK15_2323,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,5148.000470300589,617.8,0.12
+2182,SOK15_2323,Anthropogenic - Vegetated - Cultivated,Vegetables,Root vegetables,,0.0,6257.142169985552,16769.1,2.68
+2183,SOK15_2330,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3864.0615049133753,3825.4,0.99
+2184,SOK15_2330,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4782.93931209891,4735.1,0.99
+2185,SOK15_2330,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2379.3170071750287,4520.7,1.9
+2186,SOK15_2443,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1612.7139578263977,193.5,0.12
+2187,SOK15_2436,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,92189.73034359737,11062.8,0.12
+2188,SOK15_2436,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1889.6075679781986,226.8,0.12
+2189,SOK15_2482,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,1847.1628623676233,0.0,0.0
+2190,SOK15_2480,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Trees (plantation),,0.0,1293.0626185218166,9387.6,7.26
+2191,SOK15_2480,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Nut trees,,0.0,1976.7838349171996,3123.3,1.58
+2192,SOK15_2794,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2418.9709023347746,290.3,0.12
+2193,SOK15_2795,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,1535.2881491289359,184.2,0.12
+2194,SOK15_2797,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9974.038470492886,1196.9,0.12
+2195,SOK15_2802,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1698.0144056945824,3226.2,1.9
+2196,SOK15_2804,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,10798.965152175908,20518.0,1.9
+2197,SOK15_2816,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4489.688847908436,538.8,0.12
+2198,SOK15_2822,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3791.6997251860716,3753.8,0.99
+2199,SOK15_2822,Anthropogenic - Vegetated - Cultivated,Other,Cultivated land,,0.0,5480.958477994592,0.0,0.0
+2200,SOK15_2826,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,Mixed nut trees,0.0,4573.696198247078,7226.4,1.58
+2201,SOK15_2839,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,330.02122114213273,627.0,1.9
+2202,SOK15_2840,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2397.924034296449,3740.8,1.56
+2203,SOK15_2840,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,672.4439082992785,1587.0,2.36
+2204,SOK15_2840,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2325.3166273925162,2302.1,0.99
+2205,SOK15_2824,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,8252.71366147042,27894.2,3.38
+2206,SOK15_2824,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,490.67032876392295,485.8,0.99
+2207,SOK15_2824,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,2373.8704318876244,8023.7,3.38
+2208,SOK15_2957,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2598.276580237419,4079.3,1.57
+2209,SOK15_2966,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1222.1342719413103,1918.8,1.57
+2210,SOK15_2968,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4107.341289440098,492.9,0.12
+2211,SOK15_2446,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,11630.39039379658,18259.7,1.57
+2216,SOK15_2461,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,12384.60155228236,23530.7,1.9
+2259,SOK15_3314,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,899.4036436497646,1421.1,1.58
+2261,SOK15_3218,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1471.6349550890302,3473.1,2.36
+2262,SOK15_3218,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,1224.987010409812,2486.7,2.03
+2264,SOK15_2941,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7574.781032479223,17876.5,2.36
+2265,SOK15_3370,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8480.250269072922,13398.8,1.58
+2266,SOK15_3372,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,9971.269302750088,15555.2,1.56
+2267,SOK15_3372,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3815.4641273378825,3777.3,0.99
+2268,SOK15_3372,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3231.5317778351096,3199.2,0.99
+2269,SOK15_3372,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1153.6690671098827,138.4,0.12
+2270,SOK15_3373,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,655.5312344777809,649.0,0.99
+2271,SOK15_3373,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,619.8350331004171,613.6,0.99
+2272,SOK15_3373,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,1161.8142907923027,8434.8,7.26
+2273,SOK15_3373,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,1782.217817503278,12938.9,7.26
+2274,SOK15_3373,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,808.8200874758356,5872.0,7.26
+2275,SOK15_3374,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,4244.438055898828,509.3,0.12
+2278,SOK15_3243,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4391.904050211455,527.0,0.12
+2279,SOK15_3377,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,7263.853814570612,871.7,0.12
+2280,SOK15_3399,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,4503.5903308921015,0.0,0.0
+2281,SOK15_3413,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4855.545349522773,7623.2,1.57
+2282,SOK15_3422,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,526.7180846730184,826.9,1.57
+2283,SOK15_3429,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,801.2229268824157,1257.9,1.57
+2284,SOK15_3583,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,960.8384676606616,1508.5,1.57
+2287,SOK15_3462,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2265.7904440340326,3557.3,1.57
+2288,SOK15_3443,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Cedar hedging,,0.0,3145.494314219502,22836.3,7.26
+2289,SOK15_3441,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,7934.778353797851,7855.4,0.99
+2290,SOK15_3441,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1574.1393588397136,2487.1,1.58
+2291,SOK15_3437,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Cedar hedging,,0.0,7418.538244115998,53858.6,7.26
+2292,SOK15_3425,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4991.349170480455,599.0,0.12
+2293,SOK15_3425,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3561.6774782581774,5591.8,1.57
+2294,SOK15_3405,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4871.028621968306,584.5,0.12
+2295,SOK15_3394,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2098.08579100102,251.8,0.12
+2296,SOK15_3394,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3410.072778845617,409.2,0.12
+2297,SOK15_3394,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2199.541592418855,263.9,0.12
+2298,SOK15_3393,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8889.94149112824,1066.8,0.12
+2299,SOK15_3393,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Cedar hedging,,0.0,941.0158838566911,6831.8,7.26
+2300,SOK15_3602,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2246.58123240163,3527.1,1.57
+2301,SOK15_3454,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,14352.10649500732,27269.0,1.9
+2302,SOK15_3417,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,7375.977130481168,14014.4,1.9
+2303,SOK15_3409,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,6745.3922540184,809.4,0.12
+2304,SOK15_3252,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4887.328526640855,586.5,0.12
+2305,SOK15_3290,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Alfalfa,,0.0,6967.52690602486,836.1,0.12
+2306,SOK15_3333,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,492.1809503639491,1663.6,3.38
+2307,SOK15_3334,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1294.4309238466751,2459.4,1.9
+2308,SOK15_3334,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,1436.416649937564,4855.1,3.38
+2309,SOK15_3339,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,1284.7464870378276,2171.2,1.69
+2310,SOK15_3346,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Nursery,,0.0,1500.1833285379328,10891.3,7.26
+2311,SOK15_3352,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,2427.602733645827,17624.4,7.26
+2312,SOK15_3352,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,733.7434019986705,5327.0,7.26
+2313,SOK15_3509,Anthropogenic - Vegetated - Cultivated,Vegetables,Cole crops,,0.0,18270.130917698527,33982.4,1.86
+2314,SOK15_3509,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4054.6487294016406,9569.0,2.36
+2315,SOK15_3510,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,Mixed vegetables,0.0,2721.579737508498,4300.1,1.58
+2316,SOK15_3594,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2165.8382412634282,5111.4,2.36
+2317,SOK15_3594,Anthropogenic - Vegetated - Cultivated,Vines & berries,Blueberries,,0.0,3815.0459302788317,6142.2,1.61
+2318,SOK15_3597,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4278.939622222021,6717.9,1.57
+2322,SOK15_3351,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2826.19645163976,4408.9,1.56
+2324,SOK15_3351,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,3559.960374659278,3524.4,0.99
+2325,SOK15_3295,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1068.3906244078835,1677.4,1.57
+2326,SOK15_3273,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,7992.488644277116,12548.2,1.57
+2327,SOK15_3273,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1580.9300430864473,2497.9,1.58
+2328,SOK15_3273,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,599.5231949260768,941.3,1.57
+2329,SOK15_3259,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,5276.782414610254,12453.2,2.36
+2354,SOK15_3530,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1377.2623043071696,2176.1,1.58
+2355,SOK15_3532,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2448.8542570885197,5779.3,2.36
+2361,SOK15_3539,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1147.9120862367008,137.7,0.12
+2362,SOK15_3543,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,680.7393913427206,1068.8,1.57
+2363,SOK15_3638,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4206.004940693969,504.7,0.12
+2364,SOK15_3643,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,999.4950340845678,1569.2,1.57
+2365,SOK15_3641,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,936.4940770580247,1479.7,1.58
+2366,SOK15_3635,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1299.0008125747888,1286.0,0.99
+2367,SOK15_3646,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,11378.859674731164,1365.5,0.12
+2368,SOK15_3646,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,2900.35236886591,4582.6,1.58
+2369,SOK15_3652,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,2729.42786836734,0.0,0.0
+2370,SOK15_3662,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3830.185515568808,459.6,0.12
+2371,SOK15_3870,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4487.331994575717,7090.0,1.58
+2373,SOK15_3810,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,26059.744257683218,3127.2,0.12
+2384,SOK15_4409,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,10839.537332919515,1300.7,0.12
+2389,SOK15_4382,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5138.630740039092,8067.7,1.57
+2390,SOK15_4382,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,3752.046054575758,450.2,0.12
+2394,SOK15_4345,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,13792.239233945493,1655.1,0.12
+2395,SOK15_4450,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3497.834400275955,419.7,0.12
+2396,SOK15_4413,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3206.647524595922,384.8,0.12
+2398,SOK15_4508,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1351.5474303874691,162.2,0.12
+2399,SOK15_4505,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1518.7593903180639,182.3,0.12
+2402,SOK15_4775,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1924.4475239929607,4541.7,2.36
+2403,SOK15_4846,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,276.40043894794746,433.9,1.57
+2404,SOK15_5160,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2844.181448617081,4465.4,1.57
+2405,SOK15_4993,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1003.1996191670969,1575.0,1.57
+2406,SOK15_4990,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,167.03157428816107,262.2,1.57
+2407,SOK15_4987,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,88.1512206448677,138.4,1.57
+2408,SOK15_4984,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2156.6077406641944,3385.9,1.57
+2409,SOK15_4984,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2917.0074606604026,4579.7,1.57
+2411,SOK15_4984,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5980.194358306306,9388.9,1.57
+2413,SOK15_5128,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,128.37212826470963,15.4,0.12
+2414,SOK15_5124,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,960.3564659616226,2266.4,2.36
+2416,SOK15_4689,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1937.038721194469,3041.2,1.57
+2417,SOK15_4689,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1516.48229343618,2380.9,1.57
+2418,SOK15_4689,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3156.2000327938536,4955.2,1.57
+2421,SOK15_5161,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1885.2005346618944,2978.6,1.58
+2422,SOK15_5162,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,1756.4107402784186,2775.1,1.58
+2423,SOK15_5166,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4069.7265649306064,6389.5,1.57
+2424,SOK15_5167,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3809.958413783379,5981.6,1.57
+2425,SOK15_5167,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1520.8530652547931,2387.7,1.57
+2429,SOK15_7027,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,1694.6837991244815,203.4,0.12
+2430,SOK15_7035,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4371.433405029936,6863.2,1.57
+2431,SOK15_7152,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2901.744534937588,4555.7,1.57
+2432,SOK15_7152,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1466.5189698664765,2302.4,1.57
+2435,SOK15_7170,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,407.4500408543261,639.7,1.57
+2436,SOK15_7215,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1341.5013371344362,2106.2,1.57
+2437,SOK15_7215,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4121.588572250859,6470.9,1.57
+2438,SOK15_7222,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,626.4807476733303,983.6,1.57
+2439,SOK15_7222,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4272.994037241378,6708.6,1.57
+2440,SOK15_7342,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,2664.6450979365486,19345.3,7.26
+2442,SOK15_7360,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1264.177109839969,2983.5,2.36
+2443,SOK15_7354,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2844.163605103644,4465.3,1.57
+2444,SOK15_7284,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,106.2489527289481,12.7,0.12
+2445,SOK15_7276,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2967.597812074841,4659.1,1.57
+2447,SOK15_8664,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1305.6643870056782,2049.9,1.57
+2448,SOK15_8660,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3122.484219069023,4902.3,1.57
+2451,SOK15_8683,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3042.9302185345996,4777.4,1.57
+2452,SOK15_8683,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,23520.483090657573,36927.2,1.57
+2453,SOK15_8683,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,12178.8825336671,19120.8,1.57
+2454,SOK15_8683,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1663.841614428698,2612.2,1.57
+2455,SOK15_8531,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,39.5526010884234,62.1,1.57
+2456,SOK15_8488,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,118.64781792544798,186.3,1.57
+2457,SOK15_8488,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,6874.947667221218,10793.7,1.57
+2459,SOK15_8485,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1797.216282908192,2821.6,1.57
+2460,SOK15_8781,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8112.915621764811,12737.3,1.57
+2461,SOK15_7638,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,835.1525223494239,1311.2,1.57
+2462,SOK15_7638,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,6497.165651077582,10200.6,1.57
+2463,SOK15_8740,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,517.6212897288968,1221.6,2.36
+2465,SOK15_7628,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2473.0921104500194,3882.8,1.57
+2468,SOK15_7489,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,436.60220650863914,685.5,1.57
+2469,SOK15_7477,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1233.4766433133445,1936.6,1.57
+2470,SOK15_7427,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1840.038315683772,2888.9,1.57
+2471,SOK15_7424,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,988.1301684375371,1551.4,1.57
+2472,SOK15_7422,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,214.65555436119402,337.0,1.57
+2473,SOK15_7407,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,74.54998070084257,117.0,1.57
+2474,SOK15_7403,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,700.2274072252052,84.0,0.12
+2475,SOK15_7399,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,253.02904025149508,397.3,1.57
+2476,SOK15_2824,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1693.4059096075878,1676.5,0.99
+2477,SOK15_8652,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,489.5334303510597,768.6,1.57
+2478,SOK15_8635,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,1205.0545907629335,0.0,0.0
+2479,SOK15_1105,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4902.204904024944,588.3,0.12
+2481,SOK15_2815,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2070.151233109287,248.4,0.12
+2484,SOK15_4453,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,1265.1650051048434,151.8,0.12
+2485,SOK15_4411,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2814.4207088378503,337.7,0.12
+2486,SOK15_8853,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,643.9276439698098,1011.0,1.57
+2487,SOK15_8851,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9069.816223546804,14330.3,1.58
+2488,SOK15_8523,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2199.8309214191972,3453.7,1.57
+2489,SOK15_8521,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,4052.422205358954,6362.3,1.57
+2490,SOK15_8514,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,330.03616890695463,518.2,1.57
+2491,SOK15_8513,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,477.6457179021043,749.9,1.57
+2492,SOK15_8513,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2374.271007002768,3727.6,1.57
+2493,SOK15_8513,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,348.60869141970386,547.3,1.57
+2494,SOK15_8511,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,5216.955668971117,8190.6,1.57
+2495,SOK15_8511,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,111.71902245499881,175.4,1.57
+2496,SOK15_8509,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,327.993217378182,514.9,1.57
+2500,SOK15_6452,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,574.1857385277447,901.5,1.57
+2501,SOK15_6432,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6443.647314313712,15207.0,2.36
+2512,SOK15_6846,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2264.5036708536463,3555.3,1.57
+2515,SOK15_6850,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,459.21956841663683,721.0,1.57
+2516,SOK15_6853,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1400.821454965066,168.1,0.12
+2517,SOK15_6852,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,1398.8498469495205,10155.6,7.26
+2518,SOK15_8479,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,210.9741757470884,497.9,2.36
+2519,SOK15_8516,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1054.3494855792462,2488.3,2.36
+2520,SOK15_8518,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,376.87633774648907,587.9,1.56
+2521,SOK15_8714,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,604.923226258269,1427.6,2.36
+2522,SOK15_8714,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,849.3579135939259,2004.5,2.36
+2523,SOK15_7768,Anthropogenic - Vegetated - Cultivated,Floriculture,Lavender,,0.0,480.2866395528098,2050.8,4.27
+2526,SOK15_2139,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1640.300492167599,2575.3,1.57
+2527,SOK15_2286,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,Plums,0.0,842.4799236557635,1710.2,2.03
+2528,SOK15_2454,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4764.681768134892,571.8,0.12
+2533,SOK15_2815,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1656.131345415275,198.7,0.12
+2535,SOK15_2526,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4450.623025018367,4406.1,0.99
+2538,SOK15_3545,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,26818.439136331457,3218.2,0.12
+2539,SOK15_3545,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,15742.43636526497,53209.4,3.38
+2540,SOK15_5178,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1476.438632186577,2318.0,1.57
+2549,SOK15_8783,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,59.01856590770307,119.8,2.03
+2556,SOK15_120,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1301.029371455166,2472.0,1.9
+2561,SOK15_730,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,5443.402981350351,0.0,0.0
+2567,SOK15_719,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3913.6519748326737,9236.2,2.36
+2577,SOK15_921,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,1589.68751311818,0.0,0.0
+2579,SOK15_932,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,465.67995101476515,461.0,0.99
+2580,SOK15_1013,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,6352.33139788636,6288.8,0.99
+2585,SOK15_1187,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2376.8870638269354,5609.5,2.36
+2586,SOK15_1187,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,7876.629846185284,7797.9,0.99
+2593,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1493.485447440197,2344.8,1.57
+2594,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1690.6284982497527,3989.9,2.36
+2595,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2000.6593488742915,3161.0,1.58
+2596,SOK15_1944,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2141.3738712031095,4347.0,2.03
+2597,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,958.240292089655,1945.2,2.03
+2598,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1394.2770782496411,2649.1,1.9
+2599,SOK15_1949,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2033.7819178892573,2013.4,0.99
+2601,SOK15_1962,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,45901.550858083705,5508.2,0.12
+2602,SOK15_1962,Anthropogenic - Vegetated - Cultivated,Other,Cover grass,,0.0,21517.40197801228,0.0,0.0
+2603,SOK15_1962,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,29204.811281383187,55489.1,1.9
+2606,SOK15_1971,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16457.067782166218,1974.8,0.12
+2607,SOK15_1975,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Echinacea,Lavender,0.0,11388.14733723028,17993.3,1.58
+2608,SOK15_1975,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Echinacea,,0.0,1618.1118578792405,2556.6,1.58
+2610,SOK15_2037,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2030.3351100090406,3187.6,1.57
+2611,SOK15_2047,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1476.5519310133484,2805.4,1.9
+2612,SOK15_2071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4020.3826803516513,6271.8,1.56
+2613,SOK15_2108,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,4832.456212369065,8166.9,1.69
+2614,SOK15_2122,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,6811.007137848746,0.0,0.0
+2616,SOK15_2143,Anthropogenic - Vegetated - Cultivated,Vegetables,Peppers,,0.0,8161.387644128549,33135.2,4.06
+2617,SOK15_2147,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6420.957584585586,15153.5,2.36
+2618,SOK15_2147,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4017.8447651124984,6348.2,1.58
+2621,SOK15_2284,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1498.5792241433726,2847.3,1.9
+2623,SOK15_2319,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,1283.2607877186406,2168.7,1.69
+2624,SOK15_2319,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,1486.6153814043676,178.4,0.12
+2625,SOK15_2330,Anthropogenic - Vegetated - Cultivated,Vines & berries,,,0.0,288.38318906092064,464.3,1.61
+2631,SOK15_2461,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,2127.0770268080064,7189.5,3.38
+2635,SOK15_2489,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3323.221997667396,5184.2,1.56
+2640,SOK15_2808,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,8643.004441313567,16421.7,1.9
+2641,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Fruit / berry stock,,0.0,1310.2037066900875,9512.1,7.26
+2642,SOK15_2817,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,2514.402227676292,3972.8,1.58
+2644,SOK15_1211,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,27827.650683791067,52872.5,1.9
+2647,SOK15_3259,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1345.51461194273,1332.1,0.99
+2648,SOK15_3271,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,7401.150124687369,25015.9,3.38
+2650,SOK15_3326,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,2474.6527104720126,5023.5,2.03
+2652,SOK15_3341,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,4015.670924416215,13573.0,3.38
+2653,SOK15_3337,Anthropogenic - Vegetated - Cultivated,Vegetables,Tomatoes,,0.0,1145.8219006205663,3872.9,3.38
+2655,SOK15_3370,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,Peppers,0.0,1654.3597065152785,2613.9,1.58
+2656,SOK15_3387,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,1081.4650167122165,1070.7,0.99
+2657,SOK15_3405,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,2053.4424662465503,3244.4,1.58
+2658,SOK15_3417,Anthropogenic - Vegetated - Cultivated,Vegetables,Misc. vegetables,,0.0,4287.7897485860785,8146.8,1.9
+2659,SOK15_3430,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,Vines & berries,0.0,3200.451872859211,5056.7,1.58
+2660,SOK15_3430,Anthropogenic - Vegetated - Cultivated,Vines & berries,Blueberries,,0.0,1498.446831645263,2412.5,1.61
+2662,SOK15_3454,Anthropogenic - Vegetated - Cultivated,Other,Fallow land,,0.0,4660.508017663415,0.0,0.0
+2663,SOK15_3454,Anthropogenic - Vegetated - Cultivated,Vegetables,Cole crops,,0.0,10437.439482384634,19413.6,1.86
+2664,SOK15_3454,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,14317.203233883016,24196.1,1.69
+2665,SOK15_3509,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,938.2639656571947,1482.5,1.58
+2666,SOK15_3516,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5277.613762044107,8233.1,1.56
+2667,SOK15_3545,Anthropogenic - Vegetated - Cultivated,Vegetables,Cucurbits,,0.0,2803.7028133234257,4738.3,1.69
+2668,SOK15_3588,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,605.3813776711648,944.4,1.56
+2669,SOK15_3647,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,5857.1393606025185,11128.6,1.9
+2672,SOK15_4328,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,3022.3471856609003,5742.5,1.9
+2675,SOK15_4953,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,23756.42732565081,37297.6,1.57
+2677,SOK15_5160,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,3409.489817532381,5352.9,1.57
+2679,SOK15_6346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4924.726690719722,7584.1,1.54
+2680,SOK15_6349,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,632.7797834316827,1284.5,2.03
+2688,SOK15_6834,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1125.8975481878194,1778.9,1.58
+2689,SOK15_30102,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,572.8073865267874,1351.8,2.36
+2690,SOK15_7262,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,2482.855202875381,3898.1,1.57
+2693,SOK15_8537,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3719.6067741157467,8778.3,2.36
+2694,SOK15_8742,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4941.564644382144,593.0,0.12
+2696,SOK15_30093,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,2464.5791012626755,4682.7,1.9
+2701,RDCO14_7505,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3249.4462339526112,7668.7,2.36
+2703,RDCO14_8125,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,13251.073495113911,20804.2,1.57
+2704,RDCO14_7101,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,15344.948949152576,36214.1,2.36
+2705,RDCO14_8114,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,13473.092917776874,20748.6,1.54
+2708,RDCO14_7464,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9173.16097677482,14126.7,1.54
+2711,RDCO14_6815,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,"Specialty, Turf, Nut trees",0.0,893.5849136658882,1814.0,2.03
+2712,RDCO14_8039,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,12278.177954718316,1473.4,0.12
+2714,RDCO14_7448,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,13411.17530283031,20653.2,1.54
+2718,RDCO14_7978,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,50429.122554434194,119012.7,2.36
+2721,RDCO14_7973,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2050.9420494921587,4840.2,2.36
+2722,RDCO14_7105,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,6295.688984466413,0.0,0.0
+2723,RDCO14_8099,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,23634.820220182217,36397.6,1.54
+2724,RDCO14_7472,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,33206.38141564172,51137.8,1.54
+2726,RDCO14_7394,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,19355.86485420182,45679.8,2.36
+2727,RDCO14_7600,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,20547.32768897328,31642.9,1.54
+2729,RDCO14_7462,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,18544.23068384832,29114.4,1.57
+2733,RDCO14_8034,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Mixed nut trees,,0.0,5062.829306729763,7999.3,1.58
+2734,RDCO14_7971,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,6177.547236668951,14579.0,2.36
+2735,RDCO14_8153,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,18281.563640537075,2193.8,0.12
+2736,RDCO14_8157,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,4527.265288653327,7062.5,1.56
+2737,RDCO14_8095,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9593.02141486148,14773.3,1.54
+2740,RDCO14_7992,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,84496.49960165692,10139.6,0.12
+2741,RDCO14_6966,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,878.2137955582336,1370.0,1.56
+2745,RDCO14_8061,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,21012.06809045499,32358.6,1.54
+2757,RDCO14_8033,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,37068.09907714586,4448.2,0.12
+2758,RDCO14_8055,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,38791.33155779953,4655.0,0.12
+2763,RDCO14_6814,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,577.5929938586639,1172.5,2.03
+2764,RDCO14_7975,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7492.853012402826,17683.1,2.36
+2765,RDCO14_7988,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,18761.267311806878,2251.4,0.12
+2766,RDCO14_7634,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,72185.13099052878,170356.9,2.36
+2768,RDCO14_7200,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2613.272448859683,313.6,0.12
+2772,RDCO14_6925,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,6318.397624239163,758.2,0.12
+2774,RDCO14_7346,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,31138.62998647995,73487.2,2.36
+2776,RDCO14_8070,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,12235.36434562794,18842.5,1.54
+2779,RDCO14_8152,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,7085.523574451519,16721.8,2.36
+2781,RDCO14_6818,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,890.1915569285951,1807.1,2.03
+2782,RDCO14_8044,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,20431.361619375446,2451.8,0.12
+2783,RDCO14_8150,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,6413.107257404022,10004.4,1.56
+2795,RDCO14_6126,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,20971.6307647595,32925.5,1.57
+2796,RDCO14_7484,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,9619.45282284546,22701.9,2.36
+2797,RDCO14_8057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,17869.201048072555,27518.6,1.54
+2801,RDCO14_446,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Nut trees,,0.0,20426.64014492538,32274.1,1.58
+2802,RDCO14_447,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Nut trees,,0.0,3330.8830616354685,5262.8,1.58
+2803,RDCO14_245,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass / open treed,,0.0,3198.2122891254103,383.8,0.12
+2804,RDCO14_356,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,5486.331310319343,8668.4,1.58
+2805,RDCO14_3867,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,77360.77910932891,121456.4,1.57
+2806,RDCO14_3236,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,25955.558626997165,40750.2,1.57
+2807,RDCO14_3071,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,14399.936690037843,27359.9,1.9
+2808,RDCO14_3138,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,113625.3925596148,179528.1,1.58
+2809,RDCO14_3061,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2559.849243356077,307.2,0.12
+2811,RDCO14_5131,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,28054.62927833745,43765.2,1.56
+2812,RDCO14_714,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,18971.827163430862,2276.6,0.12
+2813,RDCO14_713,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,26203.272406391756,3144.4,0.12
+2815,RDCO14_3062,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5286.262976552851,8140.8,1.54
+2816,RDCO14_3263,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Christmas trees,,0.0,18250.01360262666,132495.1,7.26
+2817,RDCO14_691,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,40114.56081355376,4813.7,0.12
+2819,RDCO14_688,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Mixed nut trees,,0.0,29440.930520975882,46516.7,1.58
+2820,RDCO14_689,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,94843.20028274643,11381.2,0.12
+2822,RDCO14_3101,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,114543.86199236332,831588.4,7.26
+2823,RDCO14_687,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,192980.84539809247,1401040.9,7.26
+2824,RDCO14_4429,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,11822.086334801708,18442.5,1.56
+2825,RDCO14_3114,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,137472.79692349638,217207.0,1.58
+2827,RDCO14_3196,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,37129.91608494981,58294.0,1.57
+2828,RDCO14_3123,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,28585.733684733368,44022.0,1.54
+2829,RDCO14_3099,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,36784.94519650962,267058.7,7.26
+2831,RDCO14_5528,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,9419.496594643675,1130.3,0.12
+2832,RDCO14_6775,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,81245.30046910253,9749.4,0.12
+2837,RDCO14_3060,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4096.29996883315,6308.3,1.54
+2838,RDCO14_3060,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,1307.018720512311,156.8,0.12
+2839,RDCO14_3061,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1850.6917305048453,2850.1,1.54
+2842,RDCO14_50,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4747.523360426102,569.7,0.12
+2843,RDCO14_6,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,2764.9186446474178,4368.6,1.58
+2844,RDCO14_245,Anthropogenic - Vegetated - Cultivated,Vines & berries,Vines,,0.0,2140.8194039974846,3446.7,1.61
+2846,RDCO14_412,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,2485.3096115861813,3926.8,1.58
+2847,RDCO14_724,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,6296.297485817969,9948.2,1.58
+2849,RDCO14_3071,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,2112.483773342388,2091.4,0.99
+2850,RDCO14_3872,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,1566.1243677451669,2458.8,1.57
+2852,RDCO14_3877,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,576.0141044235396,887.1,1.54
+2853,RDCO14_6775,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,7157.483662415373,858.9,0.12
+2854,RDCO14_7576,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,85387.92673012266,10246.6,0.12
+2855,RDCO14_7576,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,289952.20179789496,34794.3,0.12
+2856,RDCO14_7867,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,5148.024338945325,8133.9,1.58
+2857,RDCO14_7869,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,5495.684864319497,8683.2,1.58
+2858,RDCO14_5134,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,20801.482520259535,2496.2,0.12
+2859,RDCO14_4414,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,6390.001654867861,766.8,0.12
+2860,RDCO14_4410,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,13247.731101271222,1589.7,0.12
+2877,RDCO14_6124,Anthropogenic - Vegetated - Cultivated,Vines & berries,Grapes,,0.0,8385.311718459452,13164.9,1.57
+2899,RDCO14_6270,Anthropogenic - Vegetated - Cultivated,Tree fruits,Plums,,0.0,4470.1032248696965,4425.4,0.99
+2908,RDCO14_6738,Anthropogenic - Vegetated - Cultivated,Nursery & Tree plantations,Ornamentals and shrubs,,0.0,2127.6909333171725,15447.0,7.26
+2910,RDCO14_6840,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,3174.5162939367606,380.9,0.12
+2911,RDCO14_6845,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4961.654227075354,7640.9,1.54
+2912,RDCO14_6845,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,911.791299704659,2151.8,2.36
+2913,RDCO14_6857,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4938.815751674131,7605.8,1.54
+2914,RDCO14_6857,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Nut trees,,0.0,3241.0511746857087,5120.9,1.58
+2916,RDCO14_6919,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,944.3789088022668,113.3,0.12
+2920,RDCO14_7267,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,292.48731832419065,35.1,0.12
+2921,RDCO14_7273,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,165.1776956460637,19.8,0.12
+2922,RDCO14_7291,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,4225.809196118255,507.1,0.12
+2923,RDCO14_7328,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,1109.409803483395,2618.2,2.36
+2924,RDCO14_7342,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,11996.575425476003,18474.7,1.54
+2925,RDCO14_7343,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8081.364157636385,12445.3,1.54
+2926,RDCO14_7399,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,26871.2806680364,63416.2,2.36
+2927,RDCO14_7464,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5042.534989041466,7765.5,1.54
+2928,RDCO14_7484,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,3766.2275911081165,5875.3,1.56
+2929,RDCO14_7484,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,7744.007201935147,12235.5,1.58
+2930,RDCO14_7501,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,5448.800655945673,8609.1,1.58
+2932,RDCO14_7507,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,855.7250699589744,1334.9,1.56
+2935,RDCO14_8034,Anthropogenic - Vegetated - Cultivated,"Specialty, Turf, Nut trees",Mixed nut trees,,0.0,6952.298346861878,10984.6,1.58
+2937,RDCO14_8057,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4935.098192058201,7600.1,1.54
+2938,RDCO14_7992,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,22909.664948632453,2749.2,0.12
+2939,RDCO14_8070,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9798.276041545294,15089.3,1.54
+2940,RDCO14_8070,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,29340.599541911728,69243.8,2.36
+2942,RDCO14_8085,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2847.1858984636024,6719.4,2.36
+2943,RDCO14_8085,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,14762.027591981863,34838.4,2.36
+2944,RDCO14_8085,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,618.4034591115268,1255.4,2.03
+2945,RDCO14_8125,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,9086.477993476834,13993.2,1.54
+2955,RDCO14_8099,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,1232.753733278664,1947.8,1.58
+2957,RDCO14_6933,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,7662.033282191346,11799.5,1.54
+2958,RDCO14_6953,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2146.9419306696736,257.6,0.12
+2959,RDCO14_7045,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,4429.385537220336,10453.3,2.36
+2960,RDCO14_7074,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,6246.96242014953,9870.2,1.58
+2961,RDCO14_7101,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,4850.0122806025975,7663.0,1.58
+2963,RDCO14_7105,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,1228.4298917757399,1916.4,1.56
+2965,RDCO14_7003,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,2189.931777472687,5168.2,2.36
+2971,RDCO14_7971,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,16149.590390423153,38113.0,2.36
+2974,RDCO14_7971,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8244.41879555727,12696.4,1.54
+2975,RDCO14_7974,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,644.2170265805825,1224.0,1.9
+2976,RDCO14_7977,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,3410.6049692296915,5252.3,1.54
+2977,RDCO14_7978,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,2558.1391586719697,3990.7,1.56
+2978,RDCO14_7991,Anthropogenic - Vegetated - Cultivated,Tree fruits,Peaches / nectarines,,0.0,5790.979405660182,9033.9,1.56
+2979,RDCO14_7589,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,8592.181271729874,13232.0,1.54
+2980,RDCO14_7589,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3117.1750384337715,7356.5,2.36
+2981,RDCO14_7600,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,3603.517981887209,5693.6,1.58
+2984,RDCO14_7632,Anthropogenic - Vegetated - Cultivated,Tree fruits,Mixed fruits,,0.0,4709.176803233166,7440.5,1.58
+2988,RDCO14_3123,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,5176.817439105581,7972.3,1.54
+2990,RDCO14_7730,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,,0.0,3749.5043684863767,8848.8,2.36
+2993,RDCO14_446,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,749.7909681309656,1522.1,2.03
+2994,RDCO14_447,Anthropogenic - Vegetated - Cultivated,Tree fruits,Pears,,0.0,6633.241128470729,13465.5,2.03
+2995,RDCO14_447,Anthropogenic - Vegetated - Cultivated,Vines & berries,Berries,,0.0,689.8865808164333,1110.7,1.61
+2996,RDCO14_447,Anthropogenic - Vegetated - Cultivated,Tree fruits,Cherries,Apricots,0.0,425.8784545221412,1005.1,2.36
+2997,RDCO14_447,Anthropogenic - Vegetated - Cultivated,Vines & berries,Berries,,0.0,752.5345205709845,1211.6,1.61
+3001,RDCO14_5529,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2178.713823996778,261.4,0.12
+3002,RDCO14_5525,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,2076.2883444907748,249.2,0.12
+3003,RDCO14_713,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1165.6576784134058,2214.7,1.9
+3004,RDCO14_3061,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,747.0921735959314,89.7,0.12
+3007,RDCO14_3263,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,8197.797686859505,983.7,0.12
+3008,RDCO14_4429,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apricots,,0.0,10067.803211845514,15907.1,1.58
+3019,RDCO14_8070,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,1746.3783101820002,2689.4,1.54
+3020,RDCO14_8099,Anthropogenic - Vegetated - Cultivated,Other,Crop transition,,0.0,8803.988149014867,0.0,0.0
+3021,RDCO14_8058,Anthropogenic - Vegetated - Cultivated,Vegetables,Mixed vegetables,,0.0,1545.0827281260867,2935.7,1.9
+3024,RDCO14_7003,Anthropogenic - Vegetated - Cultivated,Vines & berries,Raspberries,,0.0,656.6746866797049,1057.2,1.61
+3031,NORDB14_96,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,36276.60524060496,4353.2,0.12
+3041,VER14_1220,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,16078.255761611455,1929.4,0.12
+3049,VER14_1237,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,2961.5209474731228,355.4,0.12
+3054,NORDOIR14_2099,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,257317.95783368626,30878.2,0.12
+3055,NORDOIR14_2100,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,72168.14221994595,8660.2,0.12
+3059,NORDOIR14_221,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7706.905056502712,924.8,0.12
+3060,NORDOIR14_1968,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,331712.2781126535,39805.5,0.12
+3061,NORDOIR14_891,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,41906.803310096686,5028.8,0.12
+3062,NORDOIR14_2080,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,58630.33213395456,7035.6,0.12
+3063,NORDOIR14_2081,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,109339.74326069109,13120.8,0.12
+3064,NORDOIR14_2082,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,104406.74426646171,12528.8,0.12
+3066,NORDOIR14_2087,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,222583.07908897573,26710.0,0.12
+3067,NORDOIR14_2088,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,184376.6530843808,22125.2,0.12
+3068,NORDOIR14_2101,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,373372.80151139584,44804.7,0.12
+3069,NORDOIR14_2094,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,29049.871935845953,3486.0,0.12
+3070,NORDOIR14_2098,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,25191.63795077025,3023.0,0.12
+3071,NORDOIR14_2097,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,19264.4762985629,2311.7,0.12
+3073,NORDOIR14_3634,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,640919.4984687822,76910.3,0.12
+3074,NORDOIR14_3636,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,69296.4760504968,8315.6,0.12
+3077,NORDOIR14_3770,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,1979.2048418315394,237.5,0.12
+3078,NORDOIR14_4275,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,8087.605644197142,970.5,0.12
+3079,NORDOIR14_4282,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,6890.363843565366,826.8,0.12
+3085,NORDOIR14_892,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,45050.260900948626,5406.0,0.12
+3086,NORDOIR14_247,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,5530.088467774777,663.6,0.12
+3087,NORDOIR14_2095,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,21699.23284874062,2603.9,0.12
+3088,NORDOIR14_3769,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,115307.28478210408,13836.9,0.12
+3091,NORDOIR14_3757,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16958.964769197326,2035.1,0.12
+3092,NORDOIR14_3714,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,5896.857836800486,707.6,0.12
+3094,NORDOIR14_3715,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,5976.942555203126,717.2,0.12
+3095,NORDOIR14_3717,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7001.038119355859,840.1,0.12
+3096,NORDOIR14_3718,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7270.241440489553,872.4,0.12
+3098,NORDOIR14_3719,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7598.867325057399,911.9,0.12
+3099,NORDOIR14_3721,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,7853.368973564565,942.4,0.12
+3101,NORDOIR14_3748,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8566.035734217785,1027.9,0.12
+3102,NORDOIR14_3751,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8020.099878242915,962.4,0.12
+3104,NORDOIR14_3752,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,9107.15013175638,1092.9,0.12
+3105,NORDOIR14_3754,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,6524.001071861817,782.9,0.12
+3107,NORDOIR14_3755,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,6136.517296105401,736.4,0.12
+3108,NORDOIR14_3749,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,6044.388162848111,725.3,0.12
+3109,NORDOIR14_3756,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,5834.892047295347,700.2,0.12
+3110,NORDOIR14_3772,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,127712.20862020928,15325.5,0.12
+3111,NORDOIR14_888,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,154429.11805420616,18531.5,0.12
+3114,NORDOIR14_3568,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,25064.240499812906,3007.7,0.12
+3117,NORDOIR14_3595,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,34486.36095741865,4138.4,0.12
+3118,NORDOIR14_3596,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,31211.751310460582,3745.4,0.12
+3122,NORDOIR14_3710,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,4745.093263947828,569.4,0.12
+3123,NORDOIR14_3711,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,3782.4940091589715,453.9,0.12
+3124,NORDOIR14_3638,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,117189.23966552764,14062.7,0.12
+3125,NORDOIR14_3639,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,211820.2960110591,25418.4,0.12
+3126,NORDOIR14_3703,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,314997.44739338825,37799.7,0.12
+3127,NORDOIR14_3637,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,185408.90760499038,22249.1,0.12
+3128,NORDOIR14_3572,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,84908.65947438391,10189.0,0.12
+3129,NORDOIR14_3758,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16762.903111564352,2011.5,0.12
+3130,NORDOIR14_3759,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16725.17303770024,2007.0,0.12
+3131,NORDOIR14_3760,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,16819.911591113705,2018.4,0.12
+3132,NORDOIR14_3761,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,17576.0335796487,2109.1,0.12
+3133,NORDOIR14_3762,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,21883.32205599711,2626.0,0.12
+3134,NORDOIR14_3763,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,18903.468773437555,2268.4,0.12
+3135,NORDOIR14_3764,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,17711.438677501552,2125.4,0.12
+3136,NORDOIR14_3765,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,18437.986648596085,2212.6,0.12
+3137,NORDOIR14_3766,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,19591.264009547867,2351.0,0.12
+3138,NORDOIR14_4283,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,110567.28358140253,13268.1,0.12
+3141,NORDOIR14_3580,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,120845.8122892427,14501.5,0.12
+3142,NORDOIR14_3594,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,121401.06867306173,14568.1,0.12
+3143,NORDOIR14_2085,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,139738.7446107849,16768.6,0.12
+3150,NORDOIR14_3592,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,119975.17686194903,14397.0,0.12
+3151,NORDOIR14_3579,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,21915.012145068726,2629.8,0.12
+3153,NORDOIR14_3699,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,199914.15054016895,23989.7,0.12
+3156,NORDOIR14_3722,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,299344.88410729065,35921.4,0.12
+3160,NORDOIR14_4246,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,85688.80960801645,10282.7,0.12
+3161,NORDOIR14_3709,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,131127.64325372354,15735.3,0.12
+3162,NORDOIR14_3702,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,24812.236960672755,2977.5,0.12
+3163,NORDOIR14_4251,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,116349.37627245665,13961.9,0.12
+3167,NORDOIR14_4312,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,109473.82000468073,13136.9,0.12
+3171,NORDOIR14_3767,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,332843.2212011824,39941.2,0.12
+3172,NORDOIR14_3768,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,71059.1642428928,8527.1,0.12
+3173,NORDOIR14_886,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,185750.6836787223,22290.1,0.12
+3174,NORDOIR14_945,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,937944.1142833215,112553.3,0.12
+3176,NORDOIR14_3569,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,56989.87455268707,6838.8,0.12
+3177,NORDOIR14_3688,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,9821.828973109776,1178.6,0.12
+3182,COLDO14_1475,Anthropogenic - Vegetated - Cultivated,Other,Cultivated land,,0.0,4388.0689493772725,0.0,0.0
+3188,NORDOIR14_2106,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,303950.1271833827,36474.0,0.12
+3196,NORDOIR14_233,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Grass,,0.0,44078.52161027136,5289.4,0.12
+3199,NORDOIR14_886,Anthropogenic - Vegetated - Cultivated,Tree fruits,Apples,,0.0,4491.52495247438,6916.9,1.54
+3201,NORDOIR14_3771,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,5469.444807664699,656.3,0.12
+3203,NORDOIR14_3703,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,8829.74949949222,1059.6,0.12
+3212,NORDOIR14_945,Anthropogenic - Vegetated - Cultivated,Other,Cultivated land,,0.0,109899.21916263898,0.0,0.0
+3215,NORDB14_96,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,30158.672487406093,3619.0,0.12
+3216,NORDOIR14_143,Anthropogenic - Vegetated - Cultivated,Other,Cultivated land,,0.0,13033.21078360169,0.0,0.0
+3221,NORDOIR14_945,Anthropogenic - Vegetated - Cultivated,"Forage, pasture",Mixed grass / legume,,0.0,156561.9711245081,18787.4,0.12

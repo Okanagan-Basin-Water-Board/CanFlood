@@ -1,0 +1,8 @@
+aep,impacts,note,plot
+0.2,0.0,extrap,True
+0.05,3.0,impact_sum,True
+0.01,13.0,impact_sum,True
+0.005,32.0,impact_sum,True
+0.002,48.0,impact_sum,True
+0.0,58.667,extrap,True
+ead,0.884,integration,False
